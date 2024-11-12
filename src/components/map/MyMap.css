@@ -1,0 +1,14 @@
+.mymap {
+    width: 70%;
+    height: 100%;
+}
+
+.tooltip {
+    position: absolute;
+    z-index: 2;
+    color: black;
+    background: white;
+    padding: 10px;
+    border: 1px solid black;
+    pointer-events: none; /*allows map interaction*/
+  }

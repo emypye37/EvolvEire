@@ -1,0 +1,386 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1570,
+        "RegNo": "40502131",
+        "OriginalTy": "railway station",
+        "Townland": "LETTERKENNY",
+        "County": "DONEGAL",
+        "CONTAE": "Dun na nGall",
+        "COMPOSITIO": "Detached five-bay single-storey former railway station, dated 1908, having central gable-fronted single-bay projection to the front of the main elevation (west). Now in use as bus station (since 1987) with single-storey extension to rear (east). Pitched",
+        "DATEFROM": 1900,
+        "DATETO": 1910,
+        "ITM_E": 911814,
+        "ITM_N": 617388,
+        "LATITUDE": 54.953695,
+        "LONGITUDE": -7.728544,
+        "NIG_N": "217440.337539024",
+        "NIG_E": "411826.346603172",
+        "IG_E": "411825.693958927",
+        "IG_N": "217440.334888321",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/40502131_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=DG&regno=40502131",
+        "Source": "NIAH Survey of Donegal 2008 - 2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.728543947501975, 54.953695004660617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1586,
+        "RegNo": "40901017",
+        "OriginalTy": "railway station",
+        "Townland": "BALLYLIFFIN",
+        "County": "DONEGAL",
+        "CONTAE": "Dun na nGall",
+        "COMPOSITIO": "Detached three-bay two-storey former railway station, built c. 1900, with attached two-bay single-storey former waiting room to west side. Now in use as a private house. Pitched natural slate roof with pierced decorative clay ridge comb tiles, red brick",
+        "DATEFROM": 1890,
+        "DATETO": 1910,
+        "ITM_E": 948141,
+        "ITM_N": 638527,
+        "LATITUDE": 55.278861,
+        "LONGITUDE": -7.39363,
+        "NIG_N": "238583.60190444",
+        "NIG_E": "448160.938016782",
+        "IG_E": "448160.288392485",
+        "IG_N": "238583.602666811",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/40901017_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=DG&regno=40901017",
+        "Source": "NIAH Survey of Donegal 2008 - 2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.393629944796831, 55.278861006624631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1587,
+        "RegNo": "40901024",
+        "OriginalTy": "railway station",
+        "Townland": "CLEHAGH",
+        "County": "DONEGAL",
+        "CONTAE": "Dun na nGall",
+        "COMPOSITIO": "Detached three-bay two-storey former railway station, built c. 1901, with attached four-bay single-storey waiting room to west and single-bay single-storey building to east; modern porch extension to rear (platform) elevation, single-storey modern extens",
+        "DATEFROM": 1890,
+        "DATETO": 1910,
+        "ITM_E": 946167,
+        "ITM_N": 637954,
+        "LATITUDE": 55.261169,
+        "LONGITUDE": -7.402913,
+        "NIG_N": "238010.542485765",
+        "NIG_E": "446186.186460636",
+        "IG_E": "446185.536669934",
+        "IG_N": "238010.543153741",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/40901024_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=DG&regno=40901024",
+        "Source": "NIAH Survey of Donegal 2008 - 2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.402912944883497, 55.261169006513875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1970,
+        "RegNo": "50010012",
+        "OriginalTy": "railway station",
+        "Townland": null,
+        "County": "DUBLIN",
+        "CONTAE": "Baile Atha Cliath",
+        "COMPOSITIO": "Detached symmetrical thirteen-bay two-storey brick and stone former North Wall Railway Station, built c.1900, with central three-bay block flanked by matching taller five bay wings and single-storey curved wing to east. Partially vacant, currently in mix",
+        "DATEFROM": 1890,
+        "DATETO": 1910,
+        "ITM_E": 734483,
+        "ITM_N": 717347,
+        "LATITUDE": 53.347537,
+        "LONGITUDE": -6.237552,
+        "NIG_N": "317421.478561366",
+        "NIG_E": "234457.403256366",
+        "IG_E": "234456.737178085",
+        "IG_N": "317421.491127544",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/50010012_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=DU&regno=50010012",
+        "Source": "NIAH Survey of Dublin City Published"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.237551939877229, 53.347536993580178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2211,
+        "RegNo": "30401602",
+        "OriginalTy": "railway station",
+        "Townland": "POLLATURICK",
+        "County": "GALWAY",
+        "CONTAE": "Gaillimh",
+        "COMPOSITIO": "Detached railway station, built c.1900, now in use as private house. Consists of two-bay single-storey stationmaster's house at right angles to platform with attic storey, with attached four-bay single-storey station building parallel to platform and rec",
+        "DATEFROM": 1890,
+        "DATETO": 1910,
+        "ITM_E": 763496,
+        "ITM_N": 539174,
+        "LATITUDE": 53.61775,
+        "LONGITUDE": -8.919352,
+        "NIG_N": "139209.404516764",
+        "NIG_E": "263475.470267856",
+        "IG_E": "263474.806230911",
+        "IG_N": "139209.389707817",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/30401602_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=GA&regno=30401602",
+        "Source": "NIAH Survey of County Galway 2008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.919351957097547, 53.617749996418844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 3197,
+        "RegNo": "22500032",
+        "OriginalTy": "railway station",
+        "Townland": "MOUNTMISERY",
+        "County": "WATERFORD",
+        "CONTAE": "Port Lairge",
+        "COMPOSITIO": "Detached fifteen-bay single-storey red brick building, opened 1908, retaining early aspect, and originally built as wing to railway station.  Now in use as offices.  Pitched slate roof with clay ridge tiles, cut-stone coping, and cast-iron rainwater good",
+        "DATEFROM": 1905,
+        "DATETO": 1910,
+        "ITM_E": 613089,
+        "ITM_N": 660247,
+        "LATITUDE": 52.266196,
+        "LONGITUDE": -7.117349,
+        "NIG_N": "260309.781655357",
+        "NIG_E": "113037.011411116",
+        "IG_E": "113036.337379061",
+        "IG_N": "260309.785216426",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/22500032_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=WA&regno=22500032",
+        "Source": "NIAH Survey of County Waterford 2003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.117348947009361, 52.266195987047567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 3328,
+        "RegNo": "15704046",
+        "OriginalTy": "railway station",
+        "Townland": "BALLYOWEN (Shelmaliere West By.)",
+        "County": "WEXFORD",
+        "CONTAE": "Loch Garman",
+        "COMPOSITIO": "Detached four-bay single-storey railway station, opened 1906, on a rectangular plan.  Overhanging pitched corrugated-iron roof with pressed or rolled iron ridge, red brick Running bond chimney stacks having \"Cavetto\" capping supporting terracotta or yell",
+        "DATEFROM": 1900,
+        "DATETO": 1910,
+        "ITM_E": 613629,
+        "ITM_N": 685024,
+        "LATITUDE": 52.267775,
+        "LONGITUDE": -6.754301,
+        "NIG_N": "285091.804277748",
+        "NIG_E": "113576.948566765",
+        "IG_E": "113576.27457129",
+        "IG_N": "285091.811535099",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/15704046_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=WX&regno=15704046",
+        "Source": "NIAH Survey of Wexford 2005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.754300944725855, 52.267774986914418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 0,
+        "RegNo": null,
+        "OriginalTy": "terminus",
+        "Townland": "Templeogue",
+        "County": "Dublin",
+        "CONTAE": null,
+        "COMPOSITIO": "Tramway Depot",
+        "DATEFROM": 1888,
+        "DATETO": 1932,
+        "ITM_E": 0,
+        "ITM_N": 0,
+        "LATITUDE": 0.0,
+        "LONGITUDE": 0.0,
+        "NIG_N": null,
+        "NIG_E": null,
+        "IG_E": null,
+        "IG_N": null,
+        "ImageLink": null,
+        "WebsiteLin": null,
+        "Source": "OSI 25 Inch Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.303836432251336, 53.298091737867395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 0,
+        "RegNo": null,
+        "OriginalTy": "railway station",
+        "Townland": "Jobstown",
+        "County": "Dublin",
+        "CONTAE": null,
+        "COMPOSITIO": "Tramway Station",
+        "DATEFROM": 1888,
+        "DATETO": 1932,
+        "ITM_E": 0,
+        "ITM_N": 0,
+        "LATITUDE": 0.0,
+        "LONGITUDE": 0.0,
+        "NIG_N": null,
+        "NIG_E": null,
+        "IG_E": null,
+        "IG_N": null,
+        "ImageLink": null,
+        "WebsiteLin": null,
+        "Source": "OSI 25 Inch Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.39656890693141, 53.277836090016486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 0,
+        "RegNo": null,
+        "OriginalTy": "railway station",
+        "Townland": "Corbally",
+        "County": "Dublin",
+        "CONTAE": null,
+        "COMPOSITIO": "Tramway Station",
+        "DATEFROM": 1888,
+        "DATETO": 1932,
+        "ITM_E": 0,
+        "ITM_N": 0,
+        "LATITUDE": 0.0,
+        "LONGITUDE": 0.0,
+        "NIG_N": null,
+        "NIG_E": null,
+        "IG_E": null,
+        "IG_N": null,
+        "ImageLink": null,
+        "WebsiteLin": null,
+        "Source": "OSI 25 Inch Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.426041457460035, 53.274103475346898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 0,
+        "RegNo": null,
+        "OriginalTy": "railway station",
+        "Townland": "Tinode",
+        "County": "Dublin",
+        "CONTAE": null,
+        "COMPOSITIO": "The Lamb Tramway Station",
+        "DATEFROM": 1888,
+        "DATETO": 1932,
+        "ITM_E": 0,
+        "ITM_N": 0,
+        "LATITUDE": 0.0,
+        "LONGITUDE": 0.0,
+        "NIG_N": null,
+        "NIG_E": null,
+        "IG_E": null,
+        "IG_N": null,
+        "ImageLink": null,
+        "WebsiteLin": null,
+        "Source": "OSI 25 Inch Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.476642900808999, 53.215327102761549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 0,
+        "RegNo": null,
+        "OriginalTy": "terminus",
+        "Townland": "Blessinton",
+        "County": "Meath",
+        "CONTAE": null,
+        "COMPOSITIO": "Tramway Terminus",
+        "DATEFROM": 1888,
+        "DATETO": 1932,
+        "ITM_E": 0,
+        "ITM_N": 0,
+        "LATITUDE": 0.0,
+        "LONGITUDE": 0.0,
+        "NIG_N": null,
+        "NIG_E": null,
+        "IG_E": null,
+        "IG_N": null,
+        "ImageLink": null,
+        "WebsiteLin": null,
+        "Source": "OSI 25 Inch Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.585384129775663, 53.119505497867586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 0,
+        "RegNo": null,
+        "OriginalTy": "terminus",
+        "Townland": "Terenure",
+        "County": "Dublin",
+        "CONTAE": null,
+        "COMPOSITIO": "Tramway Terminus",
+        "DATEFROM": 1896,
+        "DATETO": 1927,
+        "ITM_E": 0,
+        "ITM_N": 0,
+        "LATITUDE": 0.0,
+        "LONGITUDE": 0.0,
+        "NIG_N": null,
+        "NIG_E": null,
+        "IG_E": null,
+        "IG_N": null,
+        "ImageLink": null,
+        "WebsiteLin": null,
+        "Source": "OSI 25 Inch Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.284454923795129, 53.308875726042963]
+      }
+    }
+  ]
+}

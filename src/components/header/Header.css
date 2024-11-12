@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    height: 75px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #172629;
+    color: #FAF2E8;
+    font-family:'Courier New', Courier, monospace
+  }
+  
+  .hamburger {
+    background: none;
+    border: none;
+    color: #FAF2E8;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 500px;
+    height: 100%;
+    color: #172629;
+    background-color: #FAF2E8;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.5);
+    padding: 20px;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+    z-index: 200;
+  }
+  
+  .sidebar.open {
+    transform: translateX(0);
+  }
+  
+  h2 {
+    color: #172629;
+  }
+

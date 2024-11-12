@@ -1,0 +1,212 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2745,
+        "RegNo": "41401504",
+        "OriginalTy": "railway station",
+        "Townland": "CREAGHANROE",
+        "County": "MONAGHAN",
+        "CONTAE": "Muineachan",
+        "COMPOSITIO": "Railway station complex at Creaghanroe, built c.1923, comprising railway station, remains of platform and stationmaster's house. Built as part of Great Northern Railway Line from Castleblayney to Armagh via Keady. Multiple-bay single-storey station build",
+        "DATEFROM": 1920,
+        "DATETO": 1925,
+        "ITM_E": 825558,
+        "ITM_N": 682385,
+        "LATITUDE": 54.172369,
+        "LONGITUDE": -6.73819,
+        "NIG_N": "282451.394888986",
+        "NIG_E": "325551.951298314",
+        "IG_E": "325551.291848674",
+        "IG_N": "282451.402352646",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/41401504_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=MO&regno=41401504",
+        "Source": "NIAH Survey of County Monaghan 2011-2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.738189941914813, 54.172368999129084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 0,
+        "RegNo": null,
+        "OriginalTy": "terminus",
+        "Townland": "Templeogue",
+        "County": "Dublin",
+        "CONTAE": null,
+        "COMPOSITIO": "Tramway Depot",
+        "DATEFROM": 1888,
+        "DATETO": 1932,
+        "ITM_E": 0,
+        "ITM_N": 0,
+        "LATITUDE": 0.0,
+        "LONGITUDE": 0.0,
+        "NIG_N": null,
+        "NIG_E": null,
+        "IG_E": null,
+        "IG_N": null,
+        "ImageLink": null,
+        "WebsiteLin": null,
+        "Source": "OSI 25 Inch Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.303836432251336, 53.298091737867395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 0,
+        "RegNo": null,
+        "OriginalTy": "railway station",
+        "Townland": "Jobstown",
+        "County": "Dublin",
+        "CONTAE": null,
+        "COMPOSITIO": "Tramway Station",
+        "DATEFROM": 1888,
+        "DATETO": 1932,
+        "ITM_E": 0,
+        "ITM_N": 0,
+        "LATITUDE": 0.0,
+        "LONGITUDE": 0.0,
+        "NIG_N": null,
+        "NIG_E": null,
+        "IG_E": null,
+        "IG_N": null,
+        "ImageLink": null,
+        "WebsiteLin": null,
+        "Source": "OSI 25 Inch Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.39656890693141, 53.277836090016486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 0,
+        "RegNo": null,
+        "OriginalTy": "railway station",
+        "Townland": "Corbally",
+        "County": "Dublin",
+        "CONTAE": null,
+        "COMPOSITIO": "Tramway Station",
+        "DATEFROM": 1888,
+        "DATETO": 1932,
+        "ITM_E": 0,
+        "ITM_N": 0,
+        "LATITUDE": 0.0,
+        "LONGITUDE": 0.0,
+        "NIG_N": null,
+        "NIG_E": null,
+        "IG_E": null,
+        "IG_N": null,
+        "ImageLink": null,
+        "WebsiteLin": null,
+        "Source": "OSI 25 Inch Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.426041457460035, 53.274103475346898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 0,
+        "RegNo": null,
+        "OriginalTy": "railway station",
+        "Townland": "Tinode",
+        "County": "Dublin",
+        "CONTAE": null,
+        "COMPOSITIO": "The Lamb Tramway Station",
+        "DATEFROM": 1888,
+        "DATETO": 1932,
+        "ITM_E": 0,
+        "ITM_N": 0,
+        "LATITUDE": 0.0,
+        "LONGITUDE": 0.0,
+        "NIG_N": null,
+        "NIG_E": null,
+        "IG_E": null,
+        "IG_N": null,
+        "ImageLink": null,
+        "WebsiteLin": null,
+        "Source": "OSI 25 Inch Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.476642900808999, 53.215327102761549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 0,
+        "RegNo": null,
+        "OriginalTy": "terminus",
+        "Townland": "Blessinton",
+        "County": "Meath",
+        "CONTAE": null,
+        "COMPOSITIO": "Tramway Terminus",
+        "DATEFROM": 1888,
+        "DATETO": 1932,
+        "ITM_E": 0,
+        "ITM_N": 0,
+        "LATITUDE": 0.0,
+        "LONGITUDE": 0.0,
+        "NIG_N": null,
+        "NIG_E": null,
+        "IG_E": null,
+        "IG_N": null,
+        "ImageLink": null,
+        "WebsiteLin": null,
+        "Source": "OSI 25 Inch Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.585384129775663, 53.119505497867586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 0,
+        "RegNo": null,
+        "OriginalTy": "terminus",
+        "Townland": "Terenure",
+        "County": "Dublin",
+        "CONTAE": null,
+        "COMPOSITIO": "Tramway Terminus",
+        "DATEFROM": 1896,
+        "DATETO": 1927,
+        "ITM_E": 0,
+        "ITM_N": 0,
+        "LATITUDE": 0.0,
+        "LONGITUDE": 0.0,
+        "NIG_N": null,
+        "NIG_E": null,
+        "IG_E": null,
+        "IG_N": null,
+        "ImageLink": null,
+        "WebsiteLin": null,
+        "Source": "OSI 25 Inch Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.284454923795129, 53.308875726042963]
+      }
+    }
+  ]
+}

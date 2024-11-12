@@ -1,0 +1,3727 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Lisburn Train Station\r\n",
+        "Lat": 54.5139704654,
+        "Long": -6.0453161588500004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": null,
+        "ITM_X": "726565",
+        "ITM_Y": "864598.0002",
+        "IG_X": "326640.497320659",
+        "IG_Y": "364599.790757397",
+        "NIG_X": 326641,
+        "NIG_Y": 364601
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.04531610632715, 54.513970466356128, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Kilbarrack Train Station\r\n",
+        "Lat": 53.387490908899998,
+        "Long": -6.1613768460899996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "722304",
+        "ITM_Y": "739056.0001",
+        "IG_X": "322379.712220479",
+        "IG_Y": "239030.832816517",
+        "NIG_X": 322379,
+        "NIG_Y": 239031
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.16137679523878, 53.387490903585643, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Kilcock Train Station",
+        "Lat": 53.399065622599998,
+        "Long": -6.6690045873699999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "688515",
+        "ITM_Y": "739594.0001",
+        "IG_X": "288583.46383527",
+        "IG_Y": "239568.740719912",
+        "NIG_X": 288583,
+        "NIG_Y": 239569
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.669004539438804, 53.399065617584071, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Thomastown Train Station",
+        "Lat": 52.523098589600004,
+        "Long": -7.1490201885699998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "657749",
+        "ITM_Y": "641644",
+        "IG_X": "257811.113481334",
+        "IG_Y": "141597.279983033",
+        "NIG_X": 257811,
+        "NIG_Y": 141598
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.149020144560152, 52.523098580263408, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Enfield Train Station",
+        "Lat": 53.4163892523,
+        "Long": -6.8336134037400003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "677537",
+        "ITM_Y": "741330.0001",
+        "IG_X": "277603.083779813",
+        "IG_Y": "241305.054842626",
+        "NIG_X": 277603,
+        "NIG_Y": 241306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.833613357261698, 53.416389247381034, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Clara Train Station",
+        "Lat": 53.339733126299997,
+        "Long": -7.6165287632099998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "625538",
+        "ITM_Y": "732235.0001",
+        "IG_X": "225592.851320991",
+        "IG_Y": "232207.818925716",
+        "NIG_X": 225593,
+        "NIG_Y": 232208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.616528719716379, 53.339733121685455, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Wexford Train Station",
+        "Lat": 52.343599741799999,
+        "Long": -6.4647905879899996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "704604",
+        "ITM_Y": "622443.0001",
+        "IG_X": "304676.440272815",
+        "IG_Y": "122392.16940776",
+        "NIG_X": 304676,
+        "NIG_Y": 122393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.464790539945755, 52.343599731350352, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Rosslare Europort Train Station",
+        "Lat": 52.251312374000001,
+        "Long": -6.3378121439,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "713491",
+        "ITM_Y": "612368.0001",
+        "IG_X": "313565.409899036",
+        "IG_Y": "112314.935954514",
+        "NIG_X": 313565,
+        "NIG_Y": 112316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.337812096022767, 52.25131236253732, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Kilcoole Train Station",
+        "Lat": 53.106527014400001,
+        "Long": -6.0410769127800004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "731162",
+        "ITM_Y": "708011.0002",
+        "IG_X": "331239.928583617",
+        "IG_Y": "207979.142446753",
+        "NIG_X": 331239,
+        "NIG_Y": 207980
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.041076862314841, 53.106527008200096, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Cahir Train Station",
+        "Lat": 52.377897138800002,
+        "Long": -7.92199565593,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "605311",
+        "ITM_Y": "625152.0001",
+        "IG_X": "205361.702062403",
+        "IG_Y": "125101.534621102",
+        "NIG_X": 205362,
+        "NIG_Y": 125102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.921995616289988, 52.377897128895789, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Sixmilebridge Train Station",
+        "Lat": 52.737672243399999,
+        "Long": -8.7836581753700003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "547079",
+        "ITM_Y": "665465.0001",
+        "IG_X": "147117.006882104",
+        "IG_Y": "165423.056985294",
+        "NIG_X": 147117,
+        "NIG_Y": 165424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.783658139674522, 52.737672235531804, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Cobh Train Station",
+        "Lat": 51.848718242399997,
+        "Long": -8.3006525586700004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "579286",
+        "ITM_Y": "566321.0001",
+        "IG_X": "179331.177437498",
+        "IG_Y": "66257.6043538141",
+        "NIG_X": 179332,
+        "NIG_Y": 66258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.3006525208387, 51.848718229909068, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Millstreet Train Station",
+        "Lat": 52.0775943266,
+        "Long": -9.0697795402299999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "526671",
+        "ITM_Y": "592280.0001",
+        "IG_X": "126704.887083691",
+        "IG_Y": "92222.1008589084",
+        "NIG_X": 126705,
+        "NIG_Y": 92223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.069779506384927, 52.077594315206518, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Castleconnell Train Station",
+        "Lat": 52.713177509300003,
+        "Long": -8.4980101545100002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "566350",
+        "ITM_Y": "662568.0001",
+        "IG_X": "166392.195796295",
+        "IG_Y": "162525.515352361",
+        "NIG_X": 166392,
+        "NIG_Y": 162526
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.498010117406119, 52.713177501343125, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Tipperary Train Station",
+        "Lat": 52.470167335699998,
+        "Long": -8.1617951618600006,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "589007",
+        "ITM_Y": "635427.0001",
+        "IG_X": "189054.166473181",
+        "IG_Y": "135378.71598013",
+        "NIG_X": 189054,
+        "NIG_Y": 135379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.161795123553585, 52.470167326806646, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Birdhill Train Station",
+        "Lat": 52.765888660900004,
+        "Long": -8.4420819724099996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "570165",
+        "ITM_Y": "668408.0001",
+        "IG_X": "170208.007826211",
+        "IG_Y": "168366.794143231",
+        "NIG_X": 170208,
+        "NIG_Y": 168367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.442081935272393, 52.765888652944469, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Cloughjordan Train Station",
+        "Lat": 52.936415129799997,
+        "Long": -8.0244407797299999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "598357",
+        "ITM_Y": "687290.0001",
+        "IG_X": "198406.089214413",
+        "IG_Y": "187252.989868701",
+        "NIG_X": 198406,
+        "NIG_Y": 187254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.02444073956414, 52.936415122653138, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Roscrea Train Station",
+        "Lat": 52.960730949599998,
+        "Long": -7.7944511932999996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "613810",
+        "ITM_Y": "690015.0001",
+        "IG_X": "213862.450288694",
+        "IG_Y": "189978.64043937",
+        "NIG_X": 213862,
+        "NIG_Y": 189979
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.794451151661263, 52.960730943245814, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Nenagh Train Station",
+        "Lat": 52.860473739,
+        "Long": -8.1951848288299995,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "586856",
+        "ITM_Y": "678858.0001",
+        "IG_X": "186902.607835153",
+        "IG_Y": "178819.121074879",
+        "NIG_X": 186903,
+        "NIG_Y": 178820
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.195184790188664, 52.860473731868424, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Woodlawn Train Station",
+        "Lat": 53.343129660400002,
+        "Long": -8.4714412176600007,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "568606",
+        "ITM_Y": "732648.0001",
+        "IG_X": "168648.459228153",
+        "IG_Y": "232620.628495244",
+        "NIG_X": 168648,
+        "NIG_Y": 232621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.471441180056249, 53.343129656045164, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Ardrahan Train Station",
+        "Lat": 53.157371894599997,
+        "Long": -8.8147405836099999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "545510",
+        "ITM_Y": "712185.0001",
+        "IG_X": "145547.520879722",
+        "IG_Y": "212153.111793025",
+        "NIG_X": 145547,
+        "NIG_Y": 212154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.814740547607173, 53.157371889494485, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Attymon Train Station",
+        "Lat": 53.321332037600001,
+        "Long": -8.6057302820900006,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "559643",
+        "ITM_Y": "730290.0001",
+        "IG_X": "159683.522527289",
+        "IG_Y": "230262.075372484",
+        "NIG_X": 159683,
+        "NIG_Y": 230263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.605730244490143, 53.321332033341911, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Carrick on Shannon Train Station",
+        "Lat": 53.938424169299999,
+        "Long": -8.1067457771400004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "592991",
+        "ITM_Y": "798793.0001",
+        "IG_X": "193038.414106892",
+        "IG_Y": "298779.950148416",
+        "NIG_X": 193038,
+        "NIG_Y": 298781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.1067457360109, 53.938424168485071, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Ballina Train Station",
+        "Lat": 54.109193894599997,
+        "Long": -9.1609265412499994,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "524086",
+        "ITM_Y": "818415",
+        "IG_X": "124118.451512311",
+        "IG_Y": "318405.739351722",
+        "NIG_X": 124118,
+        "NIG_Y": 318406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.160926506062356, 54.109193894925646, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Castlebar Train Station",
+        "Lat": 53.847391501399997,
+        "Long": -9.2883527575400002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "515224",
+        "ITM_Y": "789427.0001",
+        "IG_X": "115254.716945629",
+        "IG_Y": "289411.486132589",
+        "NIG_X": 115255,
+        "NIG_Y": 289412
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.288352724028069, 53.8473914999933, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Foxford Train Station",
+        "Lat": 53.982853436900001,
+        "Long": -9.1364913788600006,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "525458",
+        "ITM_Y": "804330.0001",
+        "IG_X": "125490.828218501",
+        "IG_Y": "304317.732199752",
+        "NIG_X": 125491,
+        "NIG_Y": 304318
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.136491343749105, 53.982853436335084, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Ballymote Train Station",
+        "Lat": 54.088181952399999,
+        "Long": -8.5208555675700008,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "565923",
+        "ITM_Y": "815579.0001",
+        "IG_X": "165964.460544938",
+        "IG_Y": "315569.367423737",
+        "NIG_X": 165964,
+        "NIG_Y": 315570
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.520855529333579, 54.08818195164281, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Collooney Train Station",
+        "Lat": 54.186515841800002,
+        "Long": -8.49486532343,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "567700",
+        "ITM_Y": "826510.0001",
+        "IG_X": "167741.771008827",
+        "IG_Y": "326502.712136038",
+        "NIG_X": 167742,
+        "NIG_Y": 326503
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.494865285113628, 54.186515841940242, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Belfast Central Train Station",
+        "Lat": 54.593404019099999,
+        "Long": -5.91757841077,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "734573",
+        "ITM_Y": "873674.0001",
+        "IG_X": "334650.18486639",
+        "IG_Y": "373677.717817572",
+        "NIG_X": 334650,
+        "NIG_Y": 373679
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.917578356562659, 54.593404020810759, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Little Island Train Station",
+        "Lat": 51.907625254099997,
+        "Long": -8.3552120113200008,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "575559",
+        "ITM_Y": "572891.0001",
+        "IG_X": "175603.380598766",
+        "IG_Y": "72829.0311382773",
+        "NIG_X": 175604,
+        "NIG_Y": 72830
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.355211973428629, 51.907625241651722, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Banteer Train Station",
+        "Lat": 52.128900887,
+        "Long": -8.8990241985999994,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "538446",
+        "ITM_Y": "597829.0001",
+        "IG_X": "138482.388711357",
+        "IG_Y": "97772.3511234008",
+        "NIG_X": 138483,
+        "NIG_Y": 97773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.899024163313646, 52.128900876508823, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Maynooth Train Station",
+        "Lat": 53.378087562099999,
+        "Long": -6.5906139973600002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "693774",
+        "ITM_Y": "737360.0001",
+        "IG_X": "293843.613383782",
+        "IG_Y": "237334.286878514",
+        "NIG_X": 293843,
+        "NIG_Y": 237335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.590613949459025, 53.378087557015824, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Laytown Train Station",
+        "Lat": 53.679099669400003,
+        "Long": -6.2423128428499997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "716120",
+        "ITM_Y": "771365.0001",
+        "IG_X": "316194.069164466",
+        "IG_Y": "271346.777367259",
+        "NIG_X": 316194,
+        "NIG_Y": 271347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.242312791562104, 53.679099665913569, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Dromod Train Station",
+        "Lat": 53.8591132687,
+        "Long": -7.9164096989399999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "605499",
+        "ITM_Y": "789965.0001",
+        "IG_X": "205549.177549472",
+        "IG_Y": "289950.135936478",
+        "NIG_X": 205549,
+        "NIG_Y": 289951
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.916409657902404, 53.859113266886631, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Gort Train Station",
+        "Lat": 53.067294531999998,
+        "Long": -8.8140542675399995,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "545442",
+        "ITM_Y": "702162.0001",
+        "IG_X": "145479.538252074",
+        "IG_Y": "202127.956919002",
+        "NIG_X": 145480,
+        "NIG_Y": 202129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.814054231601517, 53.06729452597061, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Boyle Train Station",
+        "Lat": 53.9675326646,
+        "Long": -8.3046107745099995,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "580013",
+        "ITM_Y": "802070.0001",
+        "IG_X": "180057.587195238",
+        "IG_Y": "302057.569461299",
+        "NIG_X": 180057,
+        "NIG_Y": 302058
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.304610734870435, 53.967532663758256, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Rathmore Train Station",
+        "Lat": 52.085406003400003,
+        "Long": -9.2179857156100002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "516527",
+        "ITM_Y": "593309.0001",
+        "IG_X": "116558.695535504",
+        "IG_Y": "93251.2913931537",
+        "NIG_X": 116559,
+        "NIG_Y": 93252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.217985683169671, 52.085405992071912, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Farranfore Train Station",
+        "Lat": 52.173793382299998,
+        "Long": -9.5521359136000008,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "493838",
+        "ITM_Y": "603578.0001",
+        "IG_X": "93864.7075936189",
+        "IG_Y": "103522.442087406",
+        "NIG_X": 93865,
+        "NIG_Y": 103523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.552135882503807, 52.173793371907472, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Athenry Train Station",
+        "Lat": 53.301693388700002,
+        "Long": -8.7485324461699996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "550106",
+        "ITM_Y": "728195.0001",
+        "IG_X": "150144.462475365",
+        "IG_Y": "228166.574529488",
+        "NIG_X": 150144,
+        "NIG_Y": 228167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.748532410073409, 53.301693384479748, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Thurles Train Station",
+        "Lat": 52.676762935399999,
+        "Long": -7.8220785444500001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "612032",
+        "ITM_Y": "658415.0001",
+        "IG_X": "212084.129746546",
+        "IG_Y": "158371.785347405",
+        "NIG_X": 212084,
+        "NIG_Y": 158372
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.82207850308187, 52.676762927291108, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Clontarf Road Train Station",
+        "Lat": 53.363025543699997,
+        "Long": -6.2267418768200002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "718024",
+        "ITM_Y": "736224.0001",
+        "IG_X": "318098.826595758",
+        "IG_Y": "236198.190571967",
+        "NIG_X": 318099,
+        "NIG_Y": 236199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.226741825991274, 53.363025538477125, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Dun Laoghaire Train Station",
+        "Lat": 53.294774856799997,
+        "Long": -6.1351926221099999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "724315",
+        "ITM_Y": "728786.0001",
+        "IG_X": "324391.246547041",
+        "IG_Y": "228758.618298537",
+        "NIG_X": 324391,
+        "NIG_Y": 228759
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.135192571371979, 53.294774851541455, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Athlone Train Station",
+        "Lat": 53.426992369399997,
+        "Long": -7.9357969620400004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "604267",
+        "ITM_Y": "741878.0001",
+        "IG_X": "204317.17583096",
+        "IG_Y": "241852.793528025",
+        "NIG_X": 204317,
+        "NIG_Y": 241853
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.935796921426458, 53.426992364927372, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Longford Train Station",
+        "Lat": 53.724300886800002,
+        "Long": -7.7960797179399997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "613458",
+        "ITM_Y": "774979.0001",
+        "IG_X": "213509.995526978",
+        "IG_Y": "274960.964801096",
+        "NIG_X": 213510,
+        "NIG_Y": 274962
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.796079675534382, 53.724300884010425, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Ennis Train Station",
+        "Lat": 52.839120479899996,
+        "Long": -8.9752646253100004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "534293",
+        "ITM_Y": "676910.0001",
+        "IG_X": "134328.198896953",
+        "IG_Y": "176870.462395727",
+        "NIG_X": 134328,
+        "NIG_Y": 176871
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.975264590997448, 52.839120472962279, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Portlaoise Train Station",
+        "Lat": 53.0370664999,
+        "Long": -7.3014467179000002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "646850",
+        "ITM_Y": "698717.0001",
+        "IG_X": "246909.634352039",
+        "IG_Y": "198682.660926579",
+        "NIG_X": 246909,
+        "NIG_Y": 198683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.301446673291841, 53.03706649338406, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Leixlip Louisa Bridge Train Station",
+        "Lat": 53.369994366999997,
+        "Long": -6.5067410780400001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "699373",
+        "ITM_Y": "736573.0001",
+        "IG_X": "299443.824176054",
+        "IG_Y": "236547.149414342",
+        "NIG_X": 299443,
+        "NIG_Y": 236548
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.506741028656388, 53.369994361888224, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Craughwell Train Station",
+        "Lat": 53.226386864399998,
+        "Long": -8.7358963888899996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "550862",
+        "ITM_Y": "719807.0001",
+        "IG_X": "150900.655532555",
+        "IG_Y": "219776.777821656",
+        "NIG_X": 150901,
+        "NIG_Y": 219777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.735896352839985, 53.226386859222721, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Sligo Train Station",
+        "Lat": 54.272022296199999,
+        "Long": -8.4819181643900006,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "568610",
+        "ITM_Y": "836020.0001",
+        "IG_X": "168651.899780252",
+        "IG_Y": "336014.747311446",
+        "NIG_X": 168652,
+        "NIG_Y": 336016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.481918126005837, 54.272022297244618, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Limerick Train Station",
+        "Lat": 52.658839280599999,
+        "Long": -8.6244688241799992,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "557753",
+        "ITM_Y": "656589",
+        "IG_X": "157793.348245635",
+        "IG_Y": "156545.18572076",
+        "NIG_X": 157793,
+        "NIG_Y": 156546
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.624468787096394, 52.658839272680801, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Killarney Train Station",
+        "Lat": 52.059258080699998,
+        "Long": -9.5020917604200008,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "496997",
+        "ITM_Y": "590765.0001",
+        "IG_X": "97024.4802434466",
+        "IG_Y": "90706.6829145458",
+        "NIG_X": 97025,
+        "NIG_Y": 90707
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.502091729380464, 52.05925806946572, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Tralee Train Station",
+        "Lat": 52.2710435718,
+        "Long": -9.6988711196799997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "484056",
+        "ITM_Y": "614621.0001",
+        "IG_X": "84080.5067355358",
+        "IG_Y": "114567.78338608",
+        "NIG_X": 84081,
+        "NIG_Y": 114568
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.698871089976116, 52.271043562326675, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Galway Train Station",
+        "Lat": 53.273645662600003,
+        "Long": -9.0468086554900005,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "530179",
+        "ITM_Y": "725324.0001",
+        "IG_X": "130213.162626768",
+        "IG_Y": "225294.8447039",
+        "NIG_X": 130213,
+        "NIG_Y": 225295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.04680862087722, 53.273645658390095, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Waterford Train Station",
+        "Lat": 52.266390475100003,
+        "Long": -7.1181371750500002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "660193",
+        "ITM_Y": "613110.0001",
+        "IG_X": "260255.602155305",
+        "IG_Y": "113057.045123865",
+        "NIG_X": 260256,
+        "NIG_Y": 113058
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.118137131317206, 52.266390464891053, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Killester Train Station",
+        "Lat": 53.372899340099998,
+        "Long": -6.2042233877699999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "719495",
+        "ITM_Y": "737360.0001",
+        "IG_X": "319570.129828808",
+        "IG_Y": "237334.446612628",
+        "NIG_X": 319570,
+        "NIG_Y": 237335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.204223336930343, 53.372899334834948, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Lisburn Train Station",
+        "Lat": 54.513918331699998,
+        "Long": -6.0454267712099998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": null,
+        "ITM_X": "726558",
+        "ITM_Y": "864592.0001",
+        "IG_X": "326633.495854327",
+        "IG_Y": "364593.789376904",
+        "NIG_X": 326634,
+        "NIG_Y": 364595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.045426718691401, 54.51391833263817, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Lurgan Train Station",
+        "Lat": 54.467303391599998,
+        "Long": -6.3378669673500001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "707747",
+        "ITM_Y": "858918.0001",
+        "IG_X": "307818.526089234",
+        "IG_Y": "358918.546419385",
+        "NIG_X": 307819,
+        "NIG_Y": 358919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.337866916432565, 54.467303392718819, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Portadown Train Station",
+        "Lat": 54.424267234200002,
+        "Long": -6.4465641057000003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "700807",
+        "ITM_Y": "853968.0001",
+        "IG_X": "300877.086625335",
+        "IG_Y": "353967.462313642",
+        "NIG_X": 300877,
+        "NIG_Y": 353968
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.446564054836611, 54.424267235308818, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Newry Train Station",
+        "Lat": 54.188722694600003,
+        "Long": -6.3625496146699998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "706867",
+        "ITM_Y": "827881.0001",
+        "IG_X": "306938.581340235",
+        "IG_Y": "327874.886859544",
+        "NIG_X": 306939,
+        "NIG_Y": 327876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.362549564162481, 54.188722693918379, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Midleton Train Station",
+        "Lat": 51.921324731399999,
+        "Long": -8.1758935085300006,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "587901",
+        "ITM_Y": "574370.0002",
+        "IG_X": "187947.988961376",
+        "IG_Y": "74308.3971179953",
+        "NIG_X": 187948,
+        "NIG_Y": 74309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.175893470677392, 51.921324718922037, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Carrigtwohill Train Station",
+        "Lat": 51.916375048799999,
+        "Long": -8.2612457189599997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "582028",
+        "ITM_Y": "573837.0001",
+        "IG_X": "182073.747031259",
+        "IG_Y": "73775.2605676728",
+        "NIG_X": 182074,
+        "NIG_Y": 73776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.261245681090184, 51.916375036337392, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Fota Train Station",
+        "Lat": 51.895549722699997,
+        "Long": -8.3186039254900006,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "578072",
+        "ITM_Y": "571536.0001",
+        "IG_X": "178116.91388081",
+        "IG_Y": "71473.7430192187",
+        "NIG_X": 178117,
+        "NIG_Y": 71475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.318603887622835, 51.895549710262721, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Glounthaune Train Station",
+        "Lat": 51.911263044400002,
+        "Long": -8.3250812892599999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "577634",
+        "ITM_Y": "573286.0001",
+        "IG_X": "177678.818616683",
+        "IG_Y": "73224.1248416662",
+        "NIG_X": 177679,
+        "NIG_Y": 73225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.325081251372367, 51.911263031912419, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Carrigaloe Train Station",
+        "Lat": 51.868881210799998,
+        "Long": -8.32429645699,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "577667",
+        "ITM_Y": "568571.0001",
+        "IG_X": "177711.832943794",
+        "IG_Y": "68508.0919381793",
+        "NIG_X": 177712,
+        "NIG_Y": 68509
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.324296419135358, 51.868881198318604, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Salthill And Monkstown Train Station",
+        "Lat": 53.295335942800001,
+        "Long": -6.1521808398799998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "723181",
+        "ITM_Y": "728819.0001",
+        "IG_X": "323257.003321011",
+        "IG_Y": "228791.617764149",
+        "NIG_X": 323257,
+        "NIG_Y": 228792
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.15218078913784, 53.295335937562754, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Mallow Train Station",
+        "Lat": 52.139046529700003,
+        "Long": -8.65530266801,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "555143",
+        "ITM_Y": "598779.0001",
+        "IG_X": "155182.964744971",
+        "IG_Y": "98722.6187019813",
+        "NIG_X": 155183,
+        "NIG_Y": 98723
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.655302632784428, 52.139046519146113, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Charleville Train Station",
+        "Lat": 52.347270928599997,
+        "Long": -8.6536951522399992,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "555462",
+        "ITM_Y": "621943.0001",
+        "IG_X": "155501.956863955",
+        "IG_Y": "121891.663547301",
+        "NIG_X": 155502,
+        "NIG_Y": 121892
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.653695115389015, 52.347270918963773, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Rushbrooke Train Station",
+        "Lat": 51.849639680099997,
+        "Long": -8.322692154,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "577768",
+        "ITM_Y": "566430.0001",
+        "IG_X": "177812.857526392",
+        "IG_Y": "66366.6229640124",
+        "NIG_X": 177813,
+        "NIG_Y": 66367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.322692116168971, 51.849639667648987, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Bayside Train Station",
+        "Lat": 53.391348279600003,
+        "Long": -6.1371227400399997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "723906",
+        "ITM_Y": "739527.0001",
+        "IG_X": "323982.048822491",
+        "IG_Y": "239501.945570405",
+        "NIG_X": 323982,
+        "NIG_Y": 239503
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.137122689186274, 53.391348274364006, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Clongriffin Train Station",
+        "Lat": 53.402502369099999,
+        "Long": -6.1492389691999998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "723068",
+        "ITM_Y": "740747.0001",
+        "IG_X": "323143.857653032",
+        "IG_Y": "240722.204317385",
+        "NIG_X": 323144,
+        "NIG_Y": 240723
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.1492389183367, 53.402502363843659, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Portmarnock Train Station",
+        "Lat": 53.418208452000002,
+        "Long": -6.1512199189199999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "722891",
+        "ITM_Y": "742491.0001",
+        "IG_X": "322966.801865984",
+        "IG_Y": "242466.580893643",
+        "NIG_X": 322967,
+        "NIG_Y": 242467
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.151219868034564, 53.418208446728372, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Docklands Train Station",
+        "Lat": 53.350745615100003,
+        "Long": -6.2393440677600003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "717219",
+        "ITM_Y": "734837.0001",
+        "IG_X": "317293.66779973",
+        "IG_Y": "234810.884460196",
+        "NIG_X": 317293,
+        "NIG_Y": 234812
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.239344016935348, 53.350745609826234, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Connolly Train Station",
+        "Lat": 53.351229942099998,
+        "Long": -6.2496590630300002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "716531",
+        "ITM_Y": "734874.0001",
+        "IG_X": "316605.52020771",
+        "IG_Y": "234847.887999564",
+        "NIG_X": 316605,
+        "NIG_Y": 234849
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.249659012206037, 53.351229936899102, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Ashtown Train Station",
+        "Lat": 53.375297477499998,
+        "Long": -6.3323297505799996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "710965",
+        "ITM_Y": "737420.0001",
+        "IG_X": "311038.304623396",
+        "IG_Y": "237394.404615777",
+        "NIG_X": 311038,
+        "NIG_Y": 237395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.332329701215544, 53.375297472370065, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Grand Canal Dock Train Station",
+        "Lat": 53.339779007300002,
+        "Long": -6.23805387126,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "717335",
+        "ITM_Y": "733619.0001",
+        "IG_X": "317409.704281052",
+        "IG_Y": "233592.620896629",
+        "NIG_X": 317409,
+        "NIG_Y": 233593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.238053820450079, 53.339779002106283, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Sydney Parade Train Station",
+        "Lat": 53.320708256899998,
+        "Long": -6.2116246694599999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "719148",
+        "ITM_Y": "731541.0001",
+        "IG_X": "319223.112571324",
+        "IG_Y": "231514.181807516",
+        "NIG_X": 319223,
+        "NIG_Y": 231515
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.211624618677217, 53.320708251643353, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Sandymount Train Station",
+        "Lat": 53.327973928799999,
+        "Long": -6.2208544075400001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "718513",
+        "ITM_Y": "732334.0001",
+        "IG_X": "318587.968916161",
+        "IG_Y": "232307.34975532",
+        "NIG_X": 318588,
+        "NIG_Y": 232308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.220854356745812, 53.327973923566724, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Drumcondra Train Station",
+        "Lat": 53.363116227799999,
+        "Long": -6.2585329754299996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "715908",
+        "ITM_Y": "736182.0001",
+        "IG_X": "315982.37436633",
+        "IG_Y": "236156.167686203",
+        "NIG_X": 315982,
+        "NIG_Y": 236157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.258532924594141, 53.363116222570632, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Pearse Train Station",
+        "Lat": 53.343316111900002,
+        "Long": -6.2493674856099997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "716572",
+        "ITM_Y": "733994.0001",
+        "IG_X": "316646.537345157",
+        "IG_Y": "233967.697299243",
+        "NIG_X": 316646,
+        "NIG_Y": 233968
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.249367434801222, 53.343316106705998, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Lansdowne Road Train Station",
+        "Lat": 53.333813260600003,
+        "Long": -6.2291102248200003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "717947",
+        "ITM_Y": "732970.0001",
+        "IG_X": "318021.841571492",
+        "IG_Y": "232943.484058078",
+        "NIG_X": 318022,
+        "NIG_Y": 232944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.229110174023616, 53.333813255400209, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Heuston Train Station",
+        "Lat": 53.346464267800002,
+        "Long": -6.2929467030500001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "713662",
+        "ITM_Y": "734274.0001",
+        "IG_X": "313735.911326315",
+        "IG_Y": "234247.739257284",
+        "NIG_X": 313736,
+        "NIG_Y": 234248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.292946653725425, 53.34646426257968, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Harmonstown Train Station",
+        "Lat": 53.378700540399997,
+        "Long": -6.1913828519000003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "720333",
+        "ITM_Y": "738027.0001",
+        "IG_X": "320408.302120081",
+        "IG_Y": "238001.596742825",
+        "NIG_X": 320408,
+        "NIG_Y": 238002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.191382801053138, 53.378700535168619, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Raheny Train Station",
+        "Lat": 53.3814407367,
+        "Long": -6.1759485628700004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "721352",
+        "ITM_Y": "738358.0001",
+        "IG_X": "321427.51629437",
+        "IG_Y": "238332.675221913",
+        "NIG_X": 321427,
+        "NIG_Y": 238333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.175948512027935, 53.38144073147398, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Claremorris Train Station",
+        "Lat": 53.720678282599998,
+        "Long": -9.0022562461900009,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "533850",
+        "ITM_Y": "775023.0001",
+        "IG_X": "133884.771293483",
+        "IG_Y": "275004.510768013",
+        "NIG_X": 133885,
+        "NIG_Y": 275005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.002256211259898, 53.720678280243327, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Manulla Junction Train Station",
+        "Lat": 53.827786239300004,
+        "Long": -9.1923532406799993,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "521504",
+        "ITM_Y": "787135.0001",
+        "IG_X": "121536.069521452",
+        "IG_Y": "287119.030594356",
+        "NIG_X": 121536,
+        "NIG_Y": 287120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.192353205670477, 53.827786237870548, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Westport Train Station",
+        "Lat": 53.7961406238,
+        "Long": -9.5100426350599996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "500516",
+        "ITM_Y": "784012.0001",
+        "IG_X": "100543.610312624",
+        "IG_Y": "283995.242168698",
+        "NIG_X": 100543,
+        "NIG_Y": 283996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.510042603096478, 53.796140622365975, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Ballyhaunis Train Station",
+        "Lat": 53.761648885299998,
+        "Long": -8.7587808893200005,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "549968",
+        "ITM_Y": "779383.0001",
+        "IG_X": "150006.221923943",
+        "IG_Y": "279365.537646131",
+        "NIG_X": 150006,
+        "NIG_Y": 279366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.758780852860264, 53.761648882802888, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Tara Street Train Station",
+        "Lat": 53.347437519099998,
+        "Long": -6.25460594756,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "716212",
+        "ITM_Y": "734444.0001",
+        "IG_X": "316286.455989333",
+        "IG_Y": "234417.79261825",
+        "NIG_X": 316286,
+        "NIG_Y": 234418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.254605896738256, 53.347437513856924, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Templemore Train Station",
+        "Lat": 52.788078483299998,
+        "Long": -7.8225884254500002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "611967",
+        "ITM_Y": "670800.0001",
+        "IG_X": "212019.094109571",
+        "IG_Y": "170759.471406292",
+        "NIG_X": 212019,
+        "NIG_Y": 170760
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.822588383968814, 52.788078476045442, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Clonmel Train Station",
+        "Lat": 52.361056189599999,
+        "Long": -7.6995380063600001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "620465",
+        "ITM_Y": "623318",
+        "IG_X": "220518.98041551",
+        "IG_Y": "123267.180013771",
+        "NIG_X": 220519,
+        "NIG_Y": 123268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.699537965329291, 52.361056179598918, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Carrick on Suir Train Station",
+        "Lat": 52.348980272600002,
+        "Long": -7.4044043214800004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "640578",
+        "ITM_Y": "622099.0001",
+        "IG_X": "240636.344505809",
+        "IG_Y": "122047.967864672",
+        "NIG_X": 240636,
+        "NIG_Y": 122049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.404404279057184, 52.348980262495786, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Limerick Junction Train Station",
+        "Lat": 52.501001641199998,
+        "Long": -8.1999368715899994,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "586425",
+        "ITM_Y": "638864.0001",
+        "IG_X": "186471.602089161",
+        "IG_Y": "138816.453681916",
+        "NIG_X": 186472,
+        "NIG_Y": 138817
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.199936833254913, 52.50100163231172, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Roscommon Train Station",
+        "Lat": 53.624348429699999,
+        "Long": -8.1962729264899998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "587016",
+        "ITM_Y": "763855.0001",
+        "IG_X": "187062.318845291",
+        "IG_Y": "263834.425569344",
+        "NIG_X": 187062,
+        "NIG_Y": 263835
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.196272887171617, 53.624348427035997, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Castlerea Train Station",
+        "Lat": 53.7615295664,
+        "Long": -8.4857147573899994,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "567973",
+        "ITM_Y": "779212.0001",
+        "IG_X": "168015.112825676",
+        "IG_Y": "279194.606652466",
+        "NIG_X": 168015,
+        "NIG_Y": 279195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.485714719440125, 53.761529563833989, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Broombridge Train Station",
+        "Lat": 53.372702385300002,
+        "Long": -6.2993820680699999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "713164",
+        "ITM_Y": "737183.0001",
+        "IG_X": "313237.777691686",
+        "IG_Y": "237157.367176106",
+        "NIG_X": 313237,
+        "NIG_Y": 237158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.299382018717878, 53.372702380126192, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Adamstown Train Station",
+        "Lat": 53.336095299100002,
+        "Long": -6.4693798068800001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "701940",
+        "ITM_Y": "732854.0001",
+        "IG_X": "302011.406582896",
+        "IG_Y": "232827.357875679",
+        "NIG_X": 302011,
+        "NIG_Y": 232828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.469379757539646, 53.336095293932765, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Arklow Train Station",
+        "Lat": 52.793913914599997,
+        "Long": -6.1598493772599996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "724102",
+        "ITM_Y": "673022",
+        "IG_X": "324178.668696215",
+        "IG_Y": "172982.422246622",
+        "NIG_X": 324178,
+        "NIG_Y": 172983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.159849327212123, 52.793913906628731, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Wicklow Train Station",
+        "Lat": 52.988041603100001,
+        "Long": -6.0528935130299999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "730729",
+        "ITM_Y": "694808.0001",
+        "IG_X": "330806.959051486",
+        "IG_Y": "194773.250911687",
+        "NIG_X": 330806,
+        "NIG_Y": 194774
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.052893462746846, 52.988041595966472, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Greystones Train Station",
+        "Lat": 53.144058524400002,
+        "Long": -6.0610611381300004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": null,
+        "ITM_X": "729711",
+        "ITM_Y": "712150.0001",
+        "IG_X": "329788.573865176",
+        "IG_Y": "212119.035383344",
+        "NIG_X": 329788,
+        "NIG_Y": 212120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.061061087619283, 53.144058518185695, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Bray Train Station",
+        "Lat": 53.204545086400003,
+        "Long": -6.1008031927199999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": null,
+        "ITM_X": "726874",
+        "ITM_Y": "718808.0002",
+        "IG_X": "326950.896103515",
+        "IG_Y": "218778.466407489",
+        "NIG_X": 326951,
+        "NIG_Y": 218779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.100803142129426, 53.204545080236109, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Rathdrum Train Station",
+        "Lat": 52.930190671200002,
+        "Long": -6.22635384247,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "719243",
+        "ITM_Y": "688070.0001",
+        "IG_X": "319318.501883944",
+        "IG_Y": "188033.700970634",
+        "NIG_X": 319318,
+        "NIG_Y": 188034
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.226353792216945, 52.930190664180628, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Enniscorthy Train Station",
+        "Lat": 52.5044035317,
+        "Long": -6.56627095182,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "697335",
+        "ITM_Y": "640190.0001",
+        "IG_X": "297405.835459021",
+        "IG_Y": "140143.07515478",
+        "NIG_X": 297406,
+        "NIG_Y": 140144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.566270903554319, 52.504403522151783, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Gorey Train Station",
+        "Lat": 52.671207785199996,
+        "Long": -6.2922111261699998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "715500",
+        "ITM_Y": "659151.0001",
+        "IG_X": "315574.832113918",
+        "IG_Y": "159108.321494154",
+        "NIG_X": 315574,
+        "NIG_Y": 159109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.292211076274105, 52.671207776439594, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Rosslare Strand Train Station",
+        "Lat": 52.271924254600002,
+        "Long": -6.3915970471000003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "709768",
+        "ITM_Y": "614578",
+        "IG_X": "309841.579250386",
+        "IG_Y": "114525.427189554",
+        "NIG_X": 309841,
+        "NIG_Y": 114527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.391596999156667, 52.271924244031943, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Cork Kent Train Station",
+        "Lat": 51.901912294399999,
+        "Long": -8.45808023817,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "568477",
+        "ITM_Y": "572295.0001",
+        "IG_X": "168519.884697169",
+        "IG_Y": "72232.8758775896",
+        "NIG_X": 168520,
+        "NIG_Y": 72234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.458080201704798, 51.901912281969246, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Howth Junction and Donaghmede Train Station",
+        "Lat": 53.391549348799998,
+        "Long": -6.1552776595100003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "722698",
+        "ITM_Y": "739518.0001",
+        "IG_X": "322773.791489212",
+        "IG_Y": "239492.93555641",
+        "NIG_X": 322773,
+        "NIG_Y": 239494
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.155277608654123, 53.391549343480222, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Tullamore Train Station",
+        "Lat": 53.2704246431,
+        "Long": -7.49997556867,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "633354",
+        "ITM_Y": "724571.0001",
+        "IG_X": "233410.58855725",
+        "IG_Y": "224542.200091527",
+        "NIG_X": 233410,
+        "NIG_Y": 224543
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.499975525269162, 53.270424637484624, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Mullingar Train Station",
+        "Lat": 53.522545850199997,
+        "Long": -7.3457241912800004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "643386",
+        "ITM_Y": "752708.0001",
+        "IG_X": "243444.620652526",
+        "IG_Y": "252685.331549468",
+        "NIG_X": 243444,
+        "NIG_Y": 252686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.345724146111042, 53.522545846315381, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "M3 Parkway Train Station",
+        "Lat": 53.434535502400003,
+        "Long": -6.4691403470799997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "701721",
+        "ITM_Y": "743807.0002",
+        "IG_X": "301792.267530358",
+        "IG_Y": "243782.732209014",
+        "NIG_X": 301792,
+        "NIG_Y": 243783
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.469140297595271, 53.434535498188581, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Dunboyne Train Station",
+        "Lat": 53.417283669299998,
+        "Long": -6.4645998576299997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "702064",
+        "ITM_Y": "741894.0001",
+        "IG_X": "302135.357490202",
+        "IG_Y": "241869.319557104",
+        "NIG_X": 302135,
+        "NIG_Y": 241870
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.464599808200656, 53.417283664194116, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Dalkey Train Station",
+        "Lat": 53.2757750667,
+        "Long": -6.1033896026400001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": null,
+        "ITM_X": "726491",
+        "ITM_Y": "726728.0001",
+        "IG_X": "326567.733701907",
+        "IG_Y": "226700.186171012",
+        "NIG_X": 326567,
+        "NIG_Y": 226701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.10338955193146, 53.275775061387918, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Killiney Train Station",
+        "Lat": 53.255863637700003,
+        "Long": -6.1128892106899997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "725916",
+        "ITM_Y": "724496.0001",
+        "IG_X": "325992.633126884",
+        "IG_Y": "224467.697109456",
+        "NIG_X": 325992,
+        "NIG_Y": 224468
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.112889160005865, 53.255863632376503, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Shankill Train Station",
+        "Lat": 53.236534028000001,
+        "Long": -6.1171555875000001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "725688",
+        "ITM_Y": "722338.0001",
+        "IG_X": "325764.605857439",
+        "IG_Y": "222309.226262268",
+        "NIG_X": 325764,
+        "NIG_Y": 222310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.117155536870349, 53.236534021859008, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Blackrock Train Station",
+        "Lat": 53.302802539699996,
+        "Long": -6.1788822781399997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "721380",
+        "ITM_Y": "729604.0001",
+        "IG_X": "321455.609663925",
+        "IG_Y": "229576.776129101",
+        "NIG_X": 321455,
+        "NIG_Y": 229577
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.178882227383932, 53.302802534448126, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Glenageary Train Station",
+        "Lat": 53.281076306800003,
+        "Long": -6.1231463925399998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "725158",
+        "ITM_Y": "727283.0001",
+        "IG_X": "325234.442376764",
+        "IG_Y": "227255.297561281",
+        "NIG_X": 325234,
+        "NIG_Y": 227256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.123146341824225, 53.281076301538334, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Sandycove And Glasthule Train Station",
+        "Lat": 53.288209414400001,
+        "Long": -6.1269136736799998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "724886",
+        "ITM_Y": "728070.0001",
+        "IG_X": "324962.376114536",
+        "IG_Y": "228042.466657323",
+        "NIG_X": 324962,
+        "NIG_Y": 228043
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.126913622951067, 53.288209409149616, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Booterstown Train Station",
+        "Lat": 53.309846352599997,
+        "Long": -6.1952405827300003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "720270",
+        "ITM_Y": "730360.0001",
+        "IG_X": "320345.364405519",
+        "IG_Y": "230332.932847636",
+        "NIG_X": 320345,
+        "NIG_Y": 230334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.195240531965773, 53.309846347349072, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Seapoint Train Station",
+        "Lat": 53.2991446001,
+        "Long": -6.1654146545700002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "722288",
+        "ITM_Y": "729220.0001",
+        "IG_X": "322363.807998628",
+        "IG_Y": "229192.698849027",
+        "NIG_X": 322363,
+        "NIG_Y": 229193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.165414603821447, 53.299144594817449, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Clonsilla Train Station",
+        "Lat": 53.383019847900002,
+        "Long": -6.4230505688699999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "704910",
+        "ITM_Y": "738142.0001",
+        "IG_X": "304982.00019786",
+        "IG_Y": "238116.523412104",
+        "NIG_X": 304982,
+        "NIG_Y": 238117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.423050519486781, 53.383019842769016, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Rush and Lusk Train Station",
+        "Lat": 53.520889664800002,
+        "Long": -6.1431765727299998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "723128",
+        "ITM_Y": "753929.0001",
+        "IG_X": "323203.731892368",
+        "IG_Y": "253907.056684134",
+        "NIG_X": 323204,
+        "NIG_Y": 253908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.143176521678012, 53.520889660430498, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Monasterevin Train Station",
+        "Lat": 53.145432838600001,
+        "Long": -7.0637313823600003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "662635",
+        "ITM_Y": "710956.0001",
+        "IG_X": "262698.027584765",
+        "IG_Y": "210924.388880762",
+        "NIG_X": 262698,
+        "NIG_Y": 210925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.063731336160934, 53.145432832872949, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Sallins And Naas Train Station",
+        "Lat": 53.246981908400002,
+        "Long": -6.6646639224099999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "689120",
+        "ITM_Y": "722678.0002",
+        "IG_X": "289188.715137509",
+        "IG_Y": "222649.072978201",
+        "NIG_X": 289188,
+        "NIG_Y": 222650
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.664663874667786, 53.246981902490575, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Leixlip Confey Train Station",
+        "Lat": 53.374021913299998,
+        "Long": -6.4854240056599997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "700782",
+        "ITM_Y": "737051.0001",
+        "IG_X": "300853.123113213",
+        "IG_Y": "237025.261614161",
+        "NIG_X": 300853,
+        "NIG_Y": 237026
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.485423956274187, 53.374021908220179, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Hazelhatch and Celbridge Train Station",
+        "Lat": 53.322413145399999,
+        "Long": -6.5240895619800003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "698328",
+        "ITM_Y": "731255.0002",
+        "IG_X": "298398.641737682",
+        "IG_Y": "231227.989147643",
+        "NIG_X": 298398,
+        "NIG_Y": 231229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.52408951264808, 53.322413140301535, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Newbridge Train Station",
+        "Lat": 53.185226499599999,
+        "Long": -6.8087287427399996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "679620",
+        "ITM_Y": "715637",
+        "IG_X": "279686.698432121",
+        "IG_Y": "215606.491036194",
+        "NIG_X": 279686,
+        "NIG_Y": 215607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.808728695043693, 53.185226493721508, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Athy Train Station",
+        "Lat": 52.992510210299997,
+        "Long": -6.9768048802499996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "668693",
+        "ITM_Y": "694021.0001",
+        "IG_X": "268757.42020333",
+        "IG_Y": "193985.737285591",
+        "NIG_X": 268757,
+        "NIG_Y": 193986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.976804834254122, 52.992510203614223, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Kildare Train Station",
+        "Lat": 53.162820496400002,
+        "Long": -6.9081699375400003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "673012",
+        "ITM_Y": "713038.0001",
+        "IG_X": "273077.276121034",
+        "IG_Y": "213006.892267696",
+        "NIG_X": 273077,
+        "NIG_Y": 213008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.908169891347484, 53.162820490546217, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Castleknock Train Station",
+        "Lat": 53.381625524599997,
+        "Long": -6.3714217183299997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "708348",
+        "ITM_Y": "738064",
+        "IG_X": "308420.738081057",
+        "IG_Y": "238038.52771364",
+        "NIG_X": 308420,
+        "NIG_Y": 238039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.371421668950929, 53.381625519428702, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Sutton Train Station",
+        "Lat": 53.391920581599997,
+        "Long": -6.1163175001300001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "725288",
+        "ITM_Y": "739627.0001",
+        "IG_X": "325364.342150137",
+        "IG_Y": "239601.976517832",
+        "NIG_X": 325364,
+        "NIG_Y": 239603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.116317449284109, 53.391920576348994, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Coolmine Train Station",
+        "Lat": 53.3775036519,
+        "Long": -6.3915698281399997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "707018",
+        "ITM_Y": "737575.0001",
+        "IG_X": "307090.45729007",
+        "IG_Y": "237549.413486625",
+        "NIG_X": 307090,
+        "NIG_Y": 237550
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.391569778765283, 53.377503646704177, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Skerries Train Station",
+        "Lat": 53.574026175999997,
+        "Long": -6.1189824607299999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "724576",
+        "ITM_Y": "759883.0001",
+        "IG_X": "324651.974373035",
+        "IG_Y": "259862.351522374",
+        "NIG_X": 324652,
+        "NIG_Y": 259863
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.118982409621442, 53.574026171570367, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Howth Train Station",
+        "Lat": 53.388975363999997,
+        "Long": -6.0742582458600003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": null,
+        "ITM_X": "728094",
+        "ITM_Y": "739374.0001",
+        "IG_X": "328170.942141398",
+        "IG_Y": "239348.940738801",
+        "NIG_X": 328171,
+        "NIG_Y": 239350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.074258195015075, 53.388975358668006, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Donabate Train Station",
+        "Lat": 53.485738136199998,
+        "Long": -6.1513430860899998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "722688",
+        "ITM_Y": "750004.0001",
+        "IG_X": "322763.68013469",
+        "IG_Y": "249981.205419243",
+        "NIG_X": 322763,
+        "NIG_Y": 249982
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.151343035079456, 53.485738131842268, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Navan Road Parkway Train Station",
+        "Lat": 53.377576401900001,
+        "Long": -6.3456030832700003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "710076",
+        "ITM_Y": "737653.0001",
+        "IG_X": "310149.112059026",
+        "IG_Y": "237627.449529021",
+        "NIG_X": 310149,
+        "NIG_Y": 237628
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.345603033905322, 53.377576396743954, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Park West and Cherry Orchard Train Station",
+        "Lat": 53.334024808300001,
+        "Long": -6.3786414094200001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "707988",
+        "ITM_Y": "732757.0001",
+        "IG_X": "308060.707538986",
+        "IG_Y": "232730.374062022",
+        "NIG_X": 308060,
+        "NIG_Y": 232731
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.378641360103952, 53.334024803159807, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Malahide Train Station",
+        "Lat": 53.450762718199996,
+        "Long": -6.1564010702700003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "722453",
+        "ITM_Y": "746104.0001",
+        "IG_X": "322528.67107821",
+        "IG_Y": "246080.360193046",
+        "NIG_X": 322528,
+        "NIG_Y": 246081
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.156401019307546, 53.450762713845556, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Gormanston Train Station",
+        "Lat": 53.637054251199999,
+        "Long": -6.2167339940200002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "717927",
+        "ITM_Y": "766729.0001",
+        "IG_X": "318001.498196648",
+        "IG_Y": "266709.788070002",
+        "NIG_X": 318001,
+        "NIG_Y": 266710
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.216733942787879, 53.637054247753852, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Balbriggan Train Station",
+        "Lat": 53.611749547400002,
+        "Long": -6.18241830941,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "720268",
+        "ITM_Y": "763971.0002",
+        "IG_X": "320343.021307205",
+        "IG_Y": "263951.207213606",
+        "NIG_X": 320343,
+        "NIG_Y": 263952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.182418258206005, 53.611749543975769, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Bagnelstown Train Station",
+        "Lat": 52.699134794400003,
+        "Long": -6.9525938433299999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "670794",
+        "ITM_Y": "661404.0001",
+        "IG_X": "270858.96579225",
+        "IG_Y": "161361.637321941",
+        "NIG_X": 270859,
+        "NIG_Y": 161362
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.952593797692173, 52.699134785875636, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Carlow Train Station",
+        "Lat": 52.840861488400002,
+        "Long": -6.9225422171800002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "672589",
+        "ITM_Y": "677202.0001",
+        "IG_X": "272654.327157541",
+        "IG_Y": "177163.091423397",
+        "NIG_X": 272654,
+        "NIG_Y": 177164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.922542171375076, 52.840861480829787, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Clondalkin Fonthill Train Station",
+        "Lat": 53.333435277900001,
+        "Long": -6.4062616320399997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "706150",
+        "ITM_Y": "732650.0001",
+        "IG_X": "306222.313553472",
+        "IG_Y": "232623.339404948",
+        "NIG_X": 306222,
+        "NIG_Y": 232624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.406261582719353, 53.333435272770821, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Dundalk Train Station",
+        "Lat": 54.001101323699999,
+        "Long": -6.4127127821699998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "704062",
+        "ITM_Y": "806929.0001",
+        "IG_X": "304133.179025659",
+        "IG_Y": "306918.371641331",
+        "NIG_X": 304133,
+        "NIG_Y": 306919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.412712731924784, 54.001101322092531, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Drogheda Train Station",
+        "Lat": 53.7119290101,
+        "Long": -6.3358888059299998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "709853",
+        "ITM_Y": "774869.0001",
+        "IG_X": "309925.709681129",
+        "IG_Y": "274851.496915742",
+        "NIG_X": 309926,
+        "NIG_Y": 274852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.335888756103119, 53.711929006685942, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Edgeworthstown Train Station",
+        "Lat": 53.688868465399999,
+        "Long": -7.6029929760200003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "626223",
+        "ITM_Y": "771090.0001",
+        "IG_X": "226277.786829553",
+        "IG_Y": "271071.201417155",
+        "NIG_X": 226278,
+        "NIG_Y": 271072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.602992932151656, 53.688868462589646, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Portarlington Train Station",
+        "Lat": 53.146184148800003,
+        "Long": -7.1815696144199999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "654751",
+        "ITM_Y": "710943.0001",
+        "IG_X": "254812.310070065",
+        "IG_Y": "210911.348666976",
+        "NIG_X": 254812,
+        "NIG_Y": 210912
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.18156956970175, 53.146184143097479, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Ballybrophy Train Station",
+        "Lat": 52.9000376296,
+        "Long": -7.60298707853,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "626711",
+        "ITM_Y": "683316",
+        "IG_X": "226766.28236166",
+        "IG_Y": "183278.239224589",
+        "NIG_X": 226766,
+        "NIG_Y": 183279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.6029870355056, 52.900037622229931, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Kilkenny (MacDonagh) Train Station",
+        "Lat": 52.654546772899998,
+        "Long": -7.2435170517299996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "651183",
+        "ITM_Y": "656197.0001",
+        "IG_X": "251243.673226128",
+        "IG_Y": "156153.433612285",
+        "NIG_X": 251244,
+        "NIG_Y": 156154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.243517007546283, 52.654546764521434, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Ballinasloe Train Station",
+        "Lat": 53.336450560199999,
+        "Long": -8.2398272297399995,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "584027",
+        "ITM_Y": "731828.0001",
+        "IG_X": "184072.814825412",
+        "IG_Y": "231800.530131748",
+        "NIG_X": 184073,
+        "NIG_Y": 231801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.239827190669045, 53.336450555807211, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Hansfield Train Station",
+        "Lat": 53.386876512100002,
+        "Long": -6.4415951361100001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "703667",
+        "ITM_Y": "738544.0001",
+        "IG_X": "303738.730026183",
+        "IG_Y": "238518.602962599",
+        "NIG_X": 303738,
+        "NIG_Y": 238519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.441595086719079, 53.386876506955382, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "Oranmore Train Station",
+        "Lat": 53.276254291999997,
+        "Long": -8.9442679899000002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "537022",
+        "ITM_Y": "725519.0001",
+        "IG_X": "137057.640123151",
+        "IG_Y": "225489.926849534",
+        "NIG_X": 137058,
+        "NIG_Y": 225491
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.94426795530379, 53.276254287759159, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "BELFAST - EUROPA/GVS",
+        "Lat": 54.594607681,
+        "Long": -5.9361832854700003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "733366.9288",
+        "ITM_Y": "873772.466399999",
+        "IG_X": "333443.855037932",
+        "IG_Y": "373776.206948153",
+        "NIG_X": 333444,
+        "NIG_Y": 373777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.936183231257159, 54.594607682792009, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "BELFAST - BOTANIC RAIL STATION",
+        "Lat": 54.588407578000002,
+        "Long": -5.9330004009600001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "733592.8765",
+        "ITM_Y": "873088.612500001",
+        "IG_X": "333669.852013441",
+        "IG_Y": "373092.207252758",
+        "NIG_X": 333670,
+        "NIG_Y": 373093
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.933000346751947, 54.588407579720368, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "BELFAST - CENTRAL RAIL STATION",
+        "Lat": 54.5953530134,
+        "Long": -5.9172828815100003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "734585.6671",
+        "ITM_Y": "873891.4343",
+        "IG_X": "334662.854459964",
+        "IG_Y": "373895.19822936",
+        "NIG_X": 334663,
+        "NIG_Y": 373896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.91728282729703, 54.595353015144354, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "BELFAST - YORKGATE RAIL STATION",
+        "Lat": 54.611979736499997,
+        "Long": -5.9227649508400004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "734176.7649",
+        "ITM_Y": "875731.040200001",
+        "IG_X": "334253.86321433",
+        "IG_Y": "375735.196079538",
+        "NIG_X": 334254,
+        "NIG_Y": 375736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.922764896604048, 54.611979738267443, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "JORDANSTOWN RAIL STATION",
+        "Lat": 54.687224317099997,
+        "Long": -5.8949141896899997,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "735724.4765",
+        "ITM_Y": "884157.216800001",
+        "IG_X": "335801.911710478",
+        "IG_Y": "384163.160765409",
+        "NIG_X": 335802,
+        "NIG_Y": 384164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.894914135357398, 54.687224318884915, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "GREENISLAND RAIL STATION",
+        "Lat": 54.7001940854,
+        "Long": -5.8730502486400002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "737090.1904",
+        "ITM_Y": "885642.8895",
+        "IG_X": "337167.924359451",
+        "IG_Y": "385649.145224834",
+        "NIG_X": 337168,
+        "NIG_Y": 385650
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.873050194283183, 54.700194087095539, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "CARRICKFERGUS RAIL STATION",
+        "Lat": 54.717518185199999,
+        "Long": -5.8095633678800001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "741121.3333",
+        "ITM_Y": "887696.4257",
+        "IG_X": "341199.950657717",
+        "IG_Y": "387703.102987043",
+        "NIG_X": 341200,
+        "NIG_Y": 387704
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.809563313497972, 54.717518186857951, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "LARNE RAIL STATION",
+        "Lat": 54.850529550499999,
+        "Long": -5.8138818250500002,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "740381.5714",
+        "ITM_Y": "902488.2434",
+        "IG_X": "340460.103550476",
+        "IG_Y": "402498.063914798",
+        "NIG_X": 340460,
+        "NIG_Y": 402499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.813881770447198, 54.850529553123167, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "LARNE HARBOUR RAIL STATION",
+        "Lat": 54.847824959699999,
+        "Long": -5.7974763092900004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "741444.3412",
+        "ITM_Y": "902220.295399999",
+        "IG_X": "341523.108394604",
+        "IG_Y": "402230.053414032",
+        "NIG_X": 341523,
+        "NIG_Y": 402231
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.797476254684254, 54.847824962262159, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "LISBURN RAIL STATION",
+        "Lat": 54.513899866599999,
+        "Long": -6.04624077248,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "RAIL STATION",
+        "ITM_X": "726505.3574",
+        "ITM_Y": "864588.4813",
+        "IG_X": "326580.842067402",
+        "IG_Y": "364590.269818915",
+        "NIG_X": 326581,
+        "NIG_Y": 364591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.046240719963454, 54.513899867503241, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "LURGAN RAIL STATION",
+        "Lat": 54.4673783251,
+        "Long": -6.3375652170699999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "707766.3621",
+        "ITM_Y": "858926.8005",
+        "IG_X": "307837.892246748",
+        "IG_Y": "358927.348760024",
+        "NIG_X": 307838,
+        "NIG_Y": 358928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.337565166153333, 54.467378326217798, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "PORTADOWN RAIL STATION",
+        "Lat": 54.426231138299997,
+        "Long": -6.4428559091000004,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "701042.7846",
+        "ITM_Y": "854191.8563",
+        "IG_X": "301112.919622838",
+        "IG_Y": "354191.367400066",
+        "NIG_X": 301113,
+        "NIG_Y": 354192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.442855858233164, 54.426231139422164, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "POYNTZPASS RAIL HALT",
+        "Lat": 54.292891263500003,
+        "Long": -6.3720813815400001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "705977.6436",
+        "ITM_Y": "839458.003900001",
+        "IG_X": "306048.940106352",
+        "IG_Y": "339454.371817985",
+        "NIG_X": 306049,
+        "NIG_Y": 339455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.372081330871033, 54.292891263681938, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "NEWRY RAIL STATION",
+        "Lat": 54.188315207300001,
+        "Long": -6.3626516637000003,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "706861.3915",
+        "ITM_Y": "827835.502900001",
+        "IG_X": "306932.972050975",
+        "IG_Y": "327829.379869709",
+        "NIG_X": 306933,
+        "NIG_Y": 327830
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.362651613196971, 54.188315206562777, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "ANTRIM RAIL STATION",
+        "Lat": 54.717714989000001,
+        "Long": -6.2111393617499999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "715251.8996",
+        "ITM_Y": "886984.716700001",
+        "IG_X": "315324.894767113",
+        "IG_Y": "386991.284725377",
+        "NIG_X": 315325,
+        "NIG_Y": 386992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.211139308931271, 54.71771499090427, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "BALLYMENA RAIL STATION",
+        "Lat": 54.864326427500004,
+        "Long": -6.2850076618599999,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "710094.0964",
+        "ITM_Y": "903181.2552",
+        "IG_X": "310165.928530934",
+        "IG_Y": "403191.286174817",
+        "NIG_X": 310166,
+        "NIG_Y": 403192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.285007610368913, 54.864326430310399, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "BALLYMONEY RAIL STATION",
+        "Lat": 55.066385353699999,
+        "Long": -6.5139839934000001,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "694918.4816",
+        "ITM_Y": "925332.5644",
+        "IG_X": "294986.904401685",
+        "IG_Y": "425347.31591461",
+        "NIG_X": 294987,
+        "NIG_Y": 425348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.513983943183459, 55.066385357539502, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "PORTRUSH RAIL STATION",
+        "Lat": 55.203387011700002,
+        "Long": -6.6536877616399996,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "685701.5462",
+        "ITM_Y": "940399.367900001",
+        "IG_X": "285767.860085167",
+        "IG_Y": "440417.317546091",
+        "NIG_X": 285768,
+        "NIG_Y": 440418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.653687711234994, 55.203387016564768, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StopName": "L'DERRY RAIL STATION",
+        "Lat": 54.991522246199999,
+        "Long": -7.3144147786399998,
+        "County": null,
+        "Line": null,
+        "Province": null,
+        "Type": "Station",
+        "ITM_X": "643874.4235",
+        "ITM_Y": "916205.801200001",
+        "IG_X": "243931.760735255",
+        "IG_Y": "416218.271234658",
+        "NIG_X": 243932,
+        "NIG_Y": 416219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.314414731700464, 54.991522250375098, 0.0]
+      }
+    }
+  ]
+}

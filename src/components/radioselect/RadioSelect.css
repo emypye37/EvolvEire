@@ -1,0 +1,12 @@
+
+
+
+.radio, .radio label {
+    display: block; 
+    padding: 0px 0; 
+    width: 100%;
+  }
+  
+  .radio input[type="radio"] {
+    margin-right: 8px; 
+  }

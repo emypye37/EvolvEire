@@ -1,0 +1,1314 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 981,
+        "RegNo": "10400615",
+        "OriginalTy": "railway station",
+        "Townland": "KILCARRIG",
+        "County": "CARLOW",
+        "CONTAE": "Ceatharlach",
+        "COMPOSITIO": "Detached seven-bay two-storey railway station, c. 1850, comprising five-bay two-storey block with pedimented central breakfront having single-storey flanking pedimented pavilion blocks.",
+        "DATEFROM": 1845,
+        "DATETO": 1855,
+        "ITM_E": 661398,
+        "ITM_N": 670797,
+        "LATITUDE": 52.699082,
+        "LONGITUDE": -6.952554,
+        "NIG_N": "270861.512000874",
+        "NIG_E": "161356.617848889",
+        "IG_E": "161355.946856659",
+        "IG_N": "270861.51725466",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/10400615_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=CW&regno=10400615",
+        "Source": "NIAH Survey of County Carlow 2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.95255394537196, 52.69908198974246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1165,
+        "RegNo": "20815051",
+        "OriginalTy": "railway station",
+        "Townland": "ANNABELLA",
+        "County": "CORK",
+        "CONTAE": "Corcaigh",
+        "COMPOSITIO": "Detached railway station, built c. 1845, facing east, comprising eight-bay two-storey main block with one slightly projecting and one slightly-recessed bay to south, and having projecting flat-roof three-bay single-storey block to front of north end of f",
+        "DATEFROM": 1840,
+        "DATETO": 1850,
+        "ITM_E": 598769,
+        "ITM_N": 555159,
+        "LATITUDE": 52.138959,
+        "LONGITUDE": -8.655074,
+        "NIG_N": "155198.741596634",
+        "NIG_E": "98713.4620079747",
+        "IG_E": "98712.7871006606",
+        "IG_N": "155198.72950241",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/20815051_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=CO&regno=20815051",
+        "Source": "NIAH Survey of County Cork 2006-2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.655073956958233, 52.138958986773233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1183,
+        "RegNo": "20905110",
+        "OriginalTy": "railway station",
+        "Townland": "RATHDUFF",
+        "County": "CORK",
+        "CONTAE": "Corcaigh",
+        "COMPOSITIO": "Detached three-bay single-storey railway station, built c.1845, having lean-to extension to rear (west). Now vacant. Pitched slate roof with central single-bay gable front to rear. Rendered chimneystack, timber bargeboards and cast-iron rainwater goods.",
+        "DATEFROM": 1840,
+        "DATETO": 1850,
+        "ITM_E": 584768,
+        "ITM_N": 559321,
+        "LATITUDE": 52.013437,
+        "LONGITUDE": -8.592598,
+        "NIG_N": "159362.379123634",
+        "NIG_E": "84709.7192852517",
+        "IG_E": "84709.0435418232",
+        "IG_N": "159362.367667431",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/20905110_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=CO&regno=20905110",
+        "Source": "NIAH Survey of County Cork 2006-2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.592597956696238, 52.013436985950996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1184,
+        "RegNo": "20906231",
+        "OriginalTy": "railway station",
+        "Townland": "SHEAN UPPER",
+        "County": "CORK",
+        "CONTAE": "Corcaigh",
+        "COMPOSITIO": "Detached eight-bay single-storey former railway station, built c.1845, having two-storey central block, with recent pitched roof porch to front (south-west). Now in use as a house. Pitched pantile roofs with overhanging eaves to two-storey block having u",
+        "DATEFROM": 1840,
+        "DATETO": 1850,
+        "ITM_E": 577148,
+        "ITM_N": 561619,
+        "LATITUDE": 51.945101,
+        "LONGITUDE": -8.55827,
+        "NIG_N": "161660.980360094",
+        "NIG_E": "77087.3537959611",
+        "IG_E": "77086.677603264",
+        "IG_N": "161660.969254245",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/20906231_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=CO&regno=20906231",
+        "Source": "NIAH Survey of County Cork 2006-2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.558269956552863, 51.945100985504077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1193,
+        "RegNo": "20909711",
+        "OriginalTy": "railway station",
+        "Townland": "DUNKEREEN",
+        "County": "CORK",
+        "CONTAE": "Corcaigh",
+        "COMPOSITIO": "Detached seven-bay single-storey former railway station, built c.1850, having gable-fronted projecting bay and canopy to front (south-east). Later return to rear (north-west) and remains of historic lean-to addition to side (north-east). Pitched slate ro",
+        "DATEFROM": 1845,
+        "DATETO": 1855,
+        "ITM_E": 559743,
+        "ITM_N": 553635,
+        "LATITUDE": 51.788049,
+        "LONGITUDE": -8.672056,
+        "NIG_N": "153675.522836131",
+        "NIG_E": "59678.7666228092",
+        "IG_E": "59678.0894194888",
+        "IG_N": "153675.510575963",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/20909711_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=CO&regno=20909711",
+        "Source": "NIAH Survey of County Cork 2006-2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.672055957452585, 51.788048984537774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1962,
+        "RegNo": "11205037",
+        "OriginalTy": "railway station",
+        "Townland": "RAHEEN (NE. BY.)",
+        "County": "DUBLIN",
+        "CONTAE": "Baile Atha Cliath",
+        "COMPOSITIO": "Detached three-bay single-storey with attic former station building, c.1850, on an L-plan, now in use as a private house.  Rendered, ruled and lined walls with projecting base.  Chamfered reveals and drip mouldings to openings housing timber casement win",
+        "DATEFROM": 1840,
+        "DATETO": 1860,
+        "ITM_E": 732614,
+        "ITM_N": 706857,
+        "LATITUDE": 53.332974,
+        "LONGITUDE": -6.395659,
+        "NIG_N": "306929.400112649",
+        "NIG_E": "232588.474293282",
+        "IG_E": "232587.808083154",
+        "IG_N": "306929.411064751",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11205037_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=SC&regno=11205037",
+        "Source": "NIAH Survey of South Dublin County 2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.395658940910041, 53.332973993560074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1963,
+        "RegNo": "11207011",
+        "OriginalTy": "railway station",
+        "Townland": "HAZELHATCH",
+        "County": "DUBLIN",
+        "CONTAE": "Baile Atha Cliath",
+        "COMPOSITIO": "Detached three-bay single-storey railway station with half-dormer attic, opened 1846, on a T-shaped plan centred on single-bay single-storey gabled advanced breakfront.  Occupied, 1901; 1911.  Now disused.  Pitched slate roof on a T-shaped plan centred o",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 731242,
+        "ITM_N": 698351,
+        "LATITUDE": 53.322292,
+        "LONGITUDE": -6.523749,
+        "NIG_N": "298421.259605109",
+        "NIG_E": "231215.633710213",
+        "IG_E": "231214.967403337",
+        "IG_N": "298421.269249673",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11207011_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=SC&regno=11207011",
+        "Source": "NIAH Survey of South Dublin County 2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.523748941746648, 53.322291993549904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1965,
+        "RegNo": "11311036",
+        "OriginalTy": "railway station",
+        "Townland": "TOWNPARKS (BA. E BY.)",
+        "County": "DUBLIN",
+        "CONTAE": "Baile Atha Cliath",
+        "COMPOSITIO": "Detached three-bay single-storey railway station, c.1850, with a gabled central breakfront and a cast-iron platform canopy.  Single-bay curved extension, c.1880, and single-bay extension, c.1970, to rear.   Detached two-storey gable-fronted signal box, c",
+        "DATEFROM": 1840,
+        "DATETO": 1860,
+        "ITM_E": 759880,
+        "ITM_N": 724573,
+        "LATITUDE": 53.574001,
+        "LONGITUDE": -6.119031,
+        "NIG_N": "324648.6467721",
+        "NIG_E": "259860.066094917",
+        "IG_E": "259859.401809956",
+        "IG_N": "324648.660553216",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11311036_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=FI&regno=11311036",
+        "Source": "NIAH Survey of Fingal County 2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.119030938775284, 53.574000994976529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1967,
+        "RegNo": "11344008",
+        "OriginalTy": "railway station",
+        "Townland": "MALAHIDE",
+        "County": "DUBLIN",
+        "CONTAE": "Baile Atha Cliath",
+        "COMPOSITIO": "Detached nine-bay single-storey yellow brick railway station, built 1851, with single-bay single-storey gabled Tudor style projecting porch to centre.  George Papworth, Architect. Glazed timber canopy to platform elevation over cast-iron columns.  Cast-i",
+        "DATEFROM": 1845,
+        "DATETO": 1855,
+        "ITM_E": 746099,
+        "ITM_N": 722451,
+        "LATITUDE": 53.450718,
+        "LONGITUDE": -6.156439,
+        "NIG_N": "322526.012994172",
+        "NIG_E": "246075.931719524",
+        "IG_E": "246075.266456224",
+        "IG_N": "322526.026390811",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11344008_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=FI&regno=11344008",
+        "Source": "NIAH Survey of Fingal County 2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.156438939202713, 53.450717994203501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1968,
+        "RegNo": "11358015",
+        "OriginalTy": "railway station",
+        "Townland": "BURROW (CO. BY.) HOWTH ED",
+        "County": "DUBLIN",
+        "CONTAE": "Baile Atha Cliath",
+        "COMPOSITIO": "Detached nine-bay single-storey railway station, c.1846, with three-bay central breakfront flanked by recessed bays.  Three-bay wing to left-hand side, now in use as retail outlet.  Timber canopy to platform elevation.  Built as extension to D.D.R (Dubli",
+        "DATEFROM": 1840,
+        "DATETO": 1850,
+        "ITM_E": 739627,
+        "ITM_N": 725311,
+        "LATITUDE": 53.391916,
+        "LONGITUDE": -6.115977,
+        "NIG_N": "325386.7121722",
+        "NIG_E": "239602.681329277",
+        "IG_E": "239602.015611783",
+        "IG_N": "325386.725980449",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11358015_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=FI&regno=11358015",
+        "Source": "NIAH Survey of Fingal County 2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.115976939033897, 53.391915993807331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1969,
+        "RegNo": "11359004",
+        "OriginalTy": "railway station",
+        "Townland": "HOWTH DEMESNE",
+        "County": "DUBLIN",
+        "CONTAE": "Baile Atha Cliath",
+        "COMPOSITIO": "Detached eleven-bay two-storey railway station, c.1855, with projecting central entrance bay.  Ground floor now in use as public house.  Cast iron decorated canopy to platform. ROOF: Hipped slate roof with terracotta ridge tiles;  four yellow brick chimn",
+        "DATEFROM": 1845,
+        "DATETO": 1865,
+        "ITM_E": 739376,
+        "ITM_N": 728099,
+        "LATITUDE": 53.388996,
+        "LONGITUDE": -6.074182,
+        "NIG_N": "328175.664431245",
+        "NIG_E": "239351.98672023",
+        "IG_E": "239351.320985713",
+        "IG_N": "328175.678666048",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11359004_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=FI&regno=11359004",
+        "Source": "NIAH Survey of Fingal County 2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.074181938771699, 53.388995993768646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1971,
+        "RegNo": "50010119",
+        "OriginalTy": "railway station",
+        "Townland": null,
+        "County": "DUBLIN",
+        "CONTAE": "Baile Atha Cliath",
+        "COMPOSITIO": "Attached symmetrical thirteen-bay two-storey train station over raised basement, built 1846, with advanced central four-stage campanile over triumphal arched entrance, advanced three-stage towers to either end and balustraded colonnades wings between. De",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 734902,
+        "ITM_N": 716527,
+        "LATITUDE": 53.351486,
+        "LONGITUDE": -6.249716,
+        "NIG_N": "316600.69867918",
+        "NIG_E": "234876.924280889",
+        "IG_E": "234876.258231689",
+        "IG_N": "316600.711121303",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/50010119_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=DU&regno=50010119",
+        "Source": "NIAH Survey of Dublin City Published"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.249715939948777, 53.351485993611156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1975,
+        "RegNo": "50070370",
+        "OriginalTy": "railway station",
+        "Townland": null,
+        "County": "DUBLIN",
+        "CONTAE": "Baile Atha Cliath",
+        "COMPOSITIO": "Detached five-bay two-storey former railway terminus, dated 1850, double-pile train shed adjoining rear (north) elevation. Central projecting block with pedimented breakfronts, and projecting breakfronts to each bay to front (south) and side elevations.",
+        "DATEFROM": 1845,
+        "DATETO": 1855,
+        "ITM_E": 735186,
+        "ITM_N": 714890,
+        "LATITUDE": 53.354393,
+        "LONGITUDE": -6.274177,
+        "NIG_N": "314964.158460699",
+        "NIG_E": "235160.761537526",
+        "IG_E": "235160.095507833",
+        "IG_N": "314964.170653224",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/50070370_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=DU&regno=50070370",
+        "Source": "NIAH Survey of Dublin City Published"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.274176940100864, 53.354392993641312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1976,
+        "RegNo": "50080035",
+        "OriginalTy": "railway station",
+        "Townland": null,
+        "County": "DUBLIN",
+        "CONTAE": "Baile Atha Cliath",
+        "COMPOSITIO": "Attached nine-bay two-storey railway station, built c.1850, flanked by recessed three-bay single-storey wings with central bellcotes fronting returns to rear (west) elevation. Two-storey return to north, multiple-bay single-storey office range to south e",
+        "DATEFROM": 1845,
+        "DATETO": 1855,
+        "ITM_E": 734284,
+        "ITM_N": 713699,
+        "LATITUDE": 53.346543,
+        "LONGITUDE": -6.292388,
+        "NIG_N": "313772.569809239",
+        "NIG_E": "234258.029569935",
+        "IG_E": "234257.363477127",
+        "IG_N": "313772.581815695",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/50080035_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=DU&regno=50080035",
+        "Source": "NIAH Survey of Dublin City Published"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29238794022911, 53.346542993599392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 1977,
+        "RegNo": "50080036",
+        "OriginalTy": "railway station",
+        "Townland": null,
+        "County": "DUBLIN",
+        "CONTAE": "Baile Atha Cliath",
+        "COMPOSITIO": "Attached booking hall and restaurant, built c.1845, comprising central seven-bay double-height hall having portico to front, flanked by four-bay single-storey wings, projecting to south elevation of return to rear (west) of Heuston Station. Restaurant no",
+        "DATEFROM": 1840,
+        "DATETO": 1850,
+        "ITM_E": 734241,
+        "ITM_N": 713625,
+        "LATITUDE": 53.346174,
+        "LONGITUDE": -6.293516,
+        "NIG_N": "313698.435381764",
+        "NIG_E": "234215.169931173",
+        "IG_E": "234214.503835355",
+        "IG_N": "313698.447376699",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/50080036_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=DU&regno=50080036",
+        "Source": "NIAH Survey of Dublin City Published"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.293515940236892, 53.346173993597269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2003,
+        "RegNo": "11323018",
+        "OriginalTy": "railway station",
+        "Townland": "EFFELSTOWN",
+        "County": "DUBLIN",
+        "CONTAE": "Baile Atha Cliath",
+        "COMPOSITIO": "Detached five-bay single-storey railway station, c.1850, with gabled entrance bay and three-bay single-storey extension to left-hand side. Timber canopies with decorative eaves supported by red brick walls to both platforms, which are linked by a cast-ir",
+        "DATEFROM": 1840,
+        "DATETO": 1860,
+        "ITM_E": 753930,
+        "ITM_N": 723131,
+        "LATITUDE": 53.520898,
+        "LONGITUDE": -6.143138,
+        "NIG_N": "323206.04152456",
+        "NIG_E": "253908.656699487",
+        "IG_E": "253907.991990402",
+        "IG_N": "323206.055058513",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11323018_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=FI&regno=11323018",
+        "Source": "NIAH Survey of Fingal County 2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.143137939010684, 53.52089799464725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2291,
+        "RegNo": "11505163",
+        "OriginalTy": "railway station",
+        "Townland": "ATHY",
+        "County": "KILDARE",
+        "CONTAE": "Cill Dara",
+        "COMPOSITIO": "Detached three-bay single-storey railway station with half-dormer attic, opened 1846, on a symmetrical plan centred on single-bay single-storey gabled projecting porch; single-bay single-storey gabled recessed end bays.",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 694015,
+        "ITM_N": 668691,
+        "LATITUDE": 52.992457,
+        "LONGITUDE": -6.976829,
+        "NIG_N": "268755.571423396",
+        "NIG_E": "193980.523297953",
+        "IG_E": "193979.854449434",
+        "IG_N": "268755.576437464",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11505163_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=KD&regno=11505163",
+        "Source": "NIAH Survey of County Kildare 2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.976828945120756, 52.992456991631144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2292,
+        "RegNo": "11811028",
+        "OriginalTy": "railway station",
+        "Townland": "OSBERSTOWN",
+        "County": "KILDARE",
+        "CONTAE": "Cill Dara",
+        "COMPOSITIO": "Detached three-bay single-storey Tudor Gothic-style former railway station with half-dormer attic, opened 1846, on a symmetrical plan with single-bay single-storey gabled projecting porch to centre, single-bay single-storey gabled recessed flanking end b",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 722656,
+        "ITM_N": 689107,
+        "LATITUDE": 53.246785,
+        "LONGITUDE": -6.66486,
+        "NIG_N": "289175.672681822",
+        "NIG_E": "222627.592079675",
+        "IG_E": "222626.92517762",
+        "IG_N": "289175.680884607",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11811028_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=KD&regno=11811028",
+        "Source": "NIAH Survey of County Kildare 2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.664859942761382, 53.246784993128543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2293,
+        "RegNo": "11816094",
+        "OriginalTy": "railway station",
+        "Townland": "MONASTEREVIN",
+        "County": "KILDARE",
+        "CONTAE": "Cill Dara",
+        "COMPOSITIO": "Detached five-bay two-storey Gothic-style former railway station, opened 1849, on an irregular plan retaining early fenestration with single-bay single-storey gabled projecting porch to left, single-bay single-storey projecting bay to centre and single-b",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 710907,
+        "ITM_N": 662548,
+        "LATITUDE": 53.145007,
+        "LONGITUDE": -7.065044,
+        "NIG_N": "262610.502018296",
+        "NIG_E": "210876.544262642",
+        "IG_E": "210875.876552997",
+        "IG_N": "262610.50613565",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11816094_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=KD&regno=11816094",
+        "Source": "NIAH Survey of County Kildare 2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.065043945477783, 53.145006992647772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2294,
+        "RegNo": "11817094",
+        "OriginalTy": "railway station",
+        "Townland": "KILDARE",
+        "County": "KILDARE",
+        "CONTAE": "Cill Dara",
+        "COMPOSITIO": "Detached eight-bay single-storey Tudor Revival railway station with half-dormer attic, opened 1846, retaining early aspect comprising two-bay single-storey central block with single-bay single-storey flat-roofed projecting porch to left, single-bay singl",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 713036,
+        "ITM_N": 673018,
+        "LATITUDE": 53.162799,
+        "LONGITUDE": -6.908083,
+        "NIG_N": "273082.786116075",
+        "NIG_E": "213005.283767761",
+        "IG_E": "213004.616204305",
+        "IG_N": "273082.791835228",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11817094_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=KD&regno=11817094",
+        "Source": "NIAH Survey of County Kildare 2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.908082944442811, 53.162798992695457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2295,
+        "RegNo": "11818064",
+        "OriginalTy": "railway station",
+        "Townland": "PIERCETOWN",
+        "County": "KILDARE",
+        "CONTAE": "Cill Dara",
+        "COMPOSITIO": "Attached six-bay single-storey yellow brick railway station, opened 1846, comprising two-bay single-storey central block with single-bay single-storey recessed flaking bay to right (north-east) having single-bay single-storey recessed entrance wing to ri",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 715619,
+        "ITM_N": 679611,
+        "LATITUDE": 53.185062,
+        "LONGITUDE": -6.808875,
+        "NIG_N": "279676.871646474",
+        "NIG_E": "215588.712827126",
+        "IG_E": "215588.04544088",
+        "IG_N": "279676.878378346",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11818064_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=KD&regno=11818064",
+        "Source": "NIAH Survey of County Kildare 2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.80887494377396, 53.185061992795596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2296,
+        "RegNo": "11903904",
+        "OriginalTy": "railway station",
+        "Townland": "MAGANEY LOWER",
+        "County": "KILDARE",
+        "CONTAE": "Cill Dara",
+        "COMPOSITIO": "Detached three-bay single-storey Tudor-style former railway station with half-dormer attic, opened 1846, originally on a T-shaped plan with single-bay single-storey gabled advanced entrance bay to centre (platform elevation) and single-bay single-storey",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 684692,
+        "ITM_N": 672047,
+        "LATITUDE": 52.908244,
+        "LONGITUDE": -6.928935,
+        "NIG_N": "272111.454183648",
+        "NIG_E": "184655.925203561",
+        "IG_E": "184655.255735077",
+        "IG_N": "272111.459684114",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/11903904_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=KD&regno=11903904",
+        "Source": "NIAH Survey of County Kildare 2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.928934944931087, 52.908243991071274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2348,
+        "RegNo": "12000190",
+        "OriginalTy": "railway station",
+        "Townland": "HIGHHAYS",
+        "County": "KILKENNY",
+        "CONTAE": "Cill Chainnigh",
+        "COMPOSITIO": "Remains of railway station complex, opened 1847, including:(i) Detached eleven-bay double-height yellow brick Classical-style screen wall.  Remodelled, 1865-8.  Closed, post-2001.  Remainder of railway station demolished, 2004-5.  Yellow brick Flemish bo",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 656269,
+        "ITM_N": 651038,
+        "LATITUDE": 52.655208,
+        "LONGITUDE": -7.245649,
+        "NIG_N": "251098.49370919",
+        "NIG_E": "156226.296306391",
+        "IG_E": "156225.624981469",
+        "IG_N": "251098.495974333",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/12000190_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=KK&regno=12000190",
+        "Source": "NIAH Survey of County Kilkenny 2004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.245648947298719, 52.655207989579971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2349,
+        "RegNo": "12317083",
+        "OriginalTy": "railway station",
+        "Townland": "NEWTOWN",
+        "County": "KILKENNY",
+        "CONTAE": "Cill Chainnigh",
+        "COMPOSITIO": "Detached three-bay two-storey gable-fronted Tudor Revival railway station, opened 1848, on a T-shaped plan with single-bay single-storey flat-roofed projecting porch to centre ground floor (probably originally having canted oriel window over), single-bay",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 641649,
+        "ITM_N": 657750,
+        "LATITUDE": 52.52314,
+        "LONGITUDE": -7.149011,
+        "NIG_N": "257811.599703337",
+        "NIG_E": "141602.743256789",
+        "IG_E": "141602.07100097",
+        "IG_N": "257811.602949874",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/12317083_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=KK&regno=12317083",
+        "Source": "NIAH Survey of County Kilkenny 2004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.149010946861098, 52.52313998869765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2367,
+        "RegNo": "12802201",
+        "OriginalTy": "railway station",
+        "Townland": "KILPURCEL",
+        "County": "LAOIS",
+        "CONTAE": "Laois",
+        "COMPOSITIO": "Detached Tudor Revival railway station, c. 1855, with projecting porch and gables. Detached railway goods shed, c. 1900, to site.",
+        "DATEFROM": 1845,
+        "DATETO": 1865,
+        "ITM_E": 683319,
+        "ITM_N": 626712,
+        "LATITUDE": 52.900061,
+        "LONGITUDE": -7.602979,
+        "NIG_N": "226766.654432812",
+        "NIG_E": "183281.541330532",
+        "IG_E": "183280.871766724",
+        "IG_N": "226766.653059081",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/12802201_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=LA&regno=12802201",
+        "Source": "NIAH Survey of County Laois 2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.602978949272654, 52.900060991290289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2368,
+        "RegNo": "12801739",
+        "OriginalTy": "railway station",
+        "Townland": "CLONARD or CAPPALOUGHLIN",
+        "County": "LAOIS",
+        "CONTAE": "Laois",
+        "COMPOSITIO": "Detached two-bay two-storey railway station, c. 1850, with five-bay single-storey wing to left having gabled projecting porches. Now derelict.",
+        "DATEFROM": 1845,
+        "DATETO": 1865,
+        "ITM_E": 690447,
+        "ITM_N": 635903,
+        "LATITUDE": 52.963588,
+        "LONGITUDE": -7.465584,
+        "NIG_N": "235959.845645825",
+        "NIG_E": "190411.300454803",
+        "IG_E": "190410.631364845",
+        "IG_N": "235959.845674213",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/12801739_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=LA&regno=12801739",
+        "Source": "NIAH Survey of County Laois 2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.465583948303505, 52.963587991645127]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2369,
+        "RegNo": "12800502",
+        "OriginalTy": "railway station",
+        "Townland": "COOLTEDERY",
+        "County": "LAOIS",
+        "CONTAE": "Laois",
+        "COMPOSITIO": "Victorian railway station complex, built 1850, comprising two ranges of buildings with former restaurant to one building. Renovated, c. 1995. Designed by Sancton Wood.",
+        "DATEFROM": 1845,
+        "DATETO": 1855,
+        "ITM_E": 710939,
+        "ITM_N": 654752,
+        "LATITUDE": 53.146147,
+        "LONGITUDE": -7.181556,
+        "NIG_N": "254812.972678977",
+        "NIG_E": "210907.914744745",
+        "IG_E": "210907.247036442",
+        "IG_N": "254812.97560761",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/12800502_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=LA&regno=12800502",
+        "Source": "NIAH Survey of County Laois 2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.181555946228, 53.146146992703883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2370,
+        "RegNo": "12504129",
+        "OriginalTy": "railway station",
+        "Townland": "MARYBOROUGH",
+        "County": "LAOIS",
+        "CONTAE": "Laois",
+        "COMPOSITIO": "Attached asymmetrical four-bay two-storey Tudor Gothic style railway station, opened 1847, incorporating station master's house, built against the railway embankment. Steeply pitched artifical slate roof, limestone ashlar chimney stack plinths with brick",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 698692,
+        "ITM_N": 646874,
+        "LATITUDE": 53.036841,
+        "LONGITUDE": -7.301089,
+        "NIG_N": "246933.619388316",
+        "NIG_E": "198658.501205085",
+        "IG_E": "198657.832667783",
+        "IG_N": "246933.6210957",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/12504129_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=LA&regno=12504129",
+        "Source": "NIAH Survey of County Laois 2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.301088947145729, 53.036840992049875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2371,
+        "RegNo": "12504131",
+        "OriginalTy": "railway station",
+        "Townland": "MARYBOROUGH",
+        "County": "LAOIS",
+        "CONTAE": "Laois",
+        "COMPOSITIO": "Detached asymmetrical four-bay two-storey Tudor Gothic style railway station, opened 1847, incorporating the station master's house, built against the railway embankment, asymmetrical two-storey façade facing the town, comprising entrance on side elevat",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 698698,
+        "ITM_N": 646873,
+        "LATITUDE": 53.036892,
+        "LONGITUDE": -7.301109,
+        "NIG_N": "246932.222416212",
+        "NIG_E": "198664.16384011",
+        "IG_E": "198663.495303196",
+        "IG_N": "246932.224123384",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/12504131_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=LA&regno=12504131",
+        "Source": "NIAH Survey of County Laois 2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.301108947145792, 53.036891992050379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2423,
+        "RegNo": "21518019",
+        "OriginalTy": "railway station",
+        "Townland": "LIMERICK MUNICIPAL BOROUGH",
+        "County": "LIMERICK",
+        "CONTAE": "Luimneach",
+        "COMPOSITIO": "Detached seven-bay (five-bay deep) two-storey over part raised basement railway station, designed 1850; opened 1858, on a H-shaped plan with two-bay two-storey advanced end bays.  Hipped slate roofs on a H-shaped plan behind parapet with rendered chimney",
+        "DATEFROM": 1845,
+        "DATETO": 1860,
+        "ITM_E": 656597,
+        "ITM_N": 557741,
+        "LATITUDE": 52.658906,
+        "LONGITUDE": -8.624654,
+        "NIG_N": "157780.956251105",
+        "NIG_E": "156553.342400744",
+        "IG_E": "156552.671092864",
+        "IG_N": "157780.944459195",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/21518019_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=LI&regno=21518019",
+        "Source": "NIAH Survey of Limerick City 2006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.624653956187787, 52.658905990103918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2424,
+        "RegNo": "21813054",
+        "OriginalTy": "railway station",
+        "Townland": "GOTOON",
+        "County": "LIMERICK",
+        "CONTAE": "Luimneach",
+        "COMPOSITIO": "Detached two-bay two-storey former railway station, built c. 1849.  Comprising gable-fronted projection to front (north) elevation, three-bay single-storey block to west elevation and two-bay single-storey block to east.  Pitched slate roofs with rendere",
+        "DATEFROM": 1840,
+        "DATETO": 1850,
+        "ITM_E": 627147,
+        "ITM_N": 561594,
+        "LATITUDE": 52.394511,
+        "LONGITUDE": -8.564289,
+        "NIG_N": "161635.829962634",
+        "NIG_E": "127097.824836859",
+        "IG_E": "127097.151666495",
+        "IG_N": "161635.818789202",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/21813054_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=LC&regno=21813054",
+        "Source": "NIAH Survey of County Limerick 2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.564288956089797, 52.39451098838294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2425,
+        "RegNo": "21816006",
+        "OriginalTy": "railway station",
+        "Townland": "DROMLARA",
+        "County": "LIMERICK",
+        "CONTAE": "Luimneach",
+        "COMPOSITIO": "Detached H-plan railway station, built c. 1848, comprising single-bay two-storey projecting end bay with lean-to to east and three-bay single-storey block with projecting end bay.  Hipped slate roof with rendered chimneystacks.  Rendered walls having ren",
+        "DATEFROM": 1840,
+        "DATETO": 1850,
+        "ITM_E": 646681,
+        "ITM_N": 577172,
+        "LATITUDE": 52.570955,
+        "LONGITUDE": -8.336751,
+        "NIG_N": "177216.795623099",
+        "NIG_E": "146636.095920919",
+        "IG_E": "146635.423979092",
+        "IG_N": "177216.786766865",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/21816006_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=LC&regno=21816006",
+        "Source": "NIAH Survey of County Limerick 2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.336750954417653, 52.570954989441113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2486,
+        "RegNo": "13706001",
+        "OriginalTy": "railway station",
+        "Townland": "TOWNPARKS (Upper Dundalk By.)",
+        "County": "LOUTH",
+        "CONTAE": "Lu",
+        "COMPOSITIO": "Detached three-bay single-storey former railway station, built c. 1850, currently unoccupied, previously used as retail outlet.  Extension to north-east.  Hipped slate roof, pitched to north, roll-top ridge and hip tiles, ashlar limestone and red brick s",
+        "DATEFROM": 1840,
+        "DATETO": 1860,
+        "ITM_E": 807596,
+        "ITM_N": 705682,
+        "LATITUDE": 54.00676,
+        "LONGITUDE": -6.387785,
+        "NIG_N": "305753.252141279",
+        "NIG_E": "307585.702304239",
+        "IG_E": "307585.041503862",
+        "IG_N": "305753.263182804",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/13706001_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=LH&regno=13706001",
+        "Source": "NIAH Survey of County Louth 2005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.387784939861098, 54.006759997891201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2646,
+        "RegNo": "14319001",
+        "OriginalTy": "railway station",
+        "Townland": "NINCH",
+        "County": "MEATH",
+        "CONTAE": "An Mhi",
+        "COMPOSITIO": "Detached nine-bay single-storey railway station, built c.1847.  Pitched slate roof, yellow brick chimneystacks and cast-iron water goods.  Timber clapperboard walls, with string course at sill level, set on a stone plinth.  Segmental-arched openings with",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 771407,
+        "ITM_N": 716079,
+        "LATITUDE": 53.679485,
+        "LONGITUDE": -6.242912,
+        "NIG_N": "316153.258204116",
+        "NIG_E": "271389.284830163",
+        "IG_E": "271388.621371815",
+        "IG_N": "316153.270722166",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/14319001_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=ME&regno=14319001",
+        "Source": "NIAH Survey of County Meath 2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.242911939411566, 53.679484995713594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2647,
+        "RegNo": "14322016",
+        "OriginalTy": "railway station",
+        "Townland": "GORMANSTON",
+        "County": "MEATH",
+        "CONTAE": "An Mhi",
+        "COMPOSITIO": "Detached five-bay single-storey railway station, built c.1847, with central porch canopy.  Pitched slate roof and brick chimneystacks.  Timber clapperboard walls, with string course at sill level, set on a rendered plinth.  Timber sash and fixed windows.",
+        "DATEFROM": 1840,
+        "DATETO": 1850,
+        "ITM_E": 766739,
+        "ITM_N": 717926,
+        "LATITUDE": 53.637146,
+        "LONGITUDE": -6.216752,
+        "NIG_N": "317999.872760794",
+        "NIG_E": "266720.572672261",
+        "IG_E": "266719.908877792",
+        "IG_N": "317999.885545303",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/14322016_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=ME&regno=14322016",
+        "Source": "NIAH Survey of County Meath 2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21675193930697, 53.63714599542908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2650,
+        "RegNo": "14401002",
+        "OriginalTy": "railway station",
+        "Townland": "POTTLEREAGH",
+        "County": "MEATH",
+        "CONTAE": "An Mhi",
+        "COMPOSITIO": "Detached five-bay single- and two-storey over basement former railway station, built c.1850, now disused.  Comprising a gabled two-storey breakfront with single-bay single-storey wing to the east and three-bay single-storey wing to the east.  Pitched sla",
+        "DATEFROM": 1840,
+        "DATETO": 1860,
+        "ITM_E": 779797,
+        "ITM_N": 664958,
+        "LATITUDE": 53.763725,
+        "LONGITUDE": -7.014803,
+        "NIG_N": "265020.527290576",
+        "NIG_E": "279781.215443625",
+        "IG_E": "279780.552587172",
+        "IG_N": "265020.531928726",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/14401002_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=ME&regno=14401002",
+        "Source": "NIAH Survey of County Meath 2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.014802944302347, 53.763724996614201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2743,
+        "RegNo": "41308011",
+        "OriginalTy": "railway station",
+        "Townland": "MORAGHY",
+        "County": "MONAGHAN",
+        "CONTAE": "Muineachan",
+        "COMPOSITIO": "Detached U-plan three-bay two-storey former stationmaster’s house, built c.1849, with recent single-storey extension to west-facing rear elevation. Hipped fibre-cement slate roof with black clay ridge tiles, yellow brick chimneystacks with moulded bric",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 819751,
+        "ITM_N": 682342,
+        "LATITUDE": 54.120208,
+        "LONGITUDE": -6.740435,
+        "NIG_N": "282408.285475795",
+        "NIG_E": "319743.646919324",
+        "IG_E": "319742.98702959",
+        "IG_N": "282408.292916594",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/41308011_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=MO&regno=41308011",
+        "Source": "NIAH Survey of County Monaghan 2011-2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.740434942003846, 54.120207998792722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2744,
+        "RegNo": "41309006",
+        "OriginalTy": "railway station",
+        "Townland": "DRUMASS",
+        "County": "MONAGHAN",
+        "CONTAE": "Muineachan",
+        "COMPOSITIO": "Detached seven-bay single-storey former railway station, built 1849, now in use as house, having later dormer attic. Former stationmaster's house to rear (north-east) elevation, and recent conservatory extension to north-west elevation. Timber canopy sup",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 807052,
+        "ITM_N": 693386,
+        "LATITUDE": 54.004242,
+        "LONGITUDE": -6.575461,
+        "NIG_N": "293454.789802225",
+        "NIG_E": "307041.508922916",
+        "IG_E": "307040.848080216",
+        "IG_N": "293454.79892741",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/41309006_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=MO&regno=41309006",
+        "Source": "NIAH Survey of County Monaghan 2011-2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.575460941089093, 54.004241997965174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2838,
+        "RegNo": "22312068",
+        "OriginalTy": "railway station",
+        "Townland": "GARRYVICLEHEEN",
+        "County": "TIPPERARY NORTH",
+        "CONTAE": "Tiobraid Arann Theas",
+        "COMPOSITIO": "Detached asymmetrical multiple-bay single- and two-storey railway station, built 1848, comprising entrance façade of three central bays, flanked by slightly projecting gabled bays having projecting bay windows, with single recessed bays to north and sou",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 658416,
+        "ITM_N": 612030,
+        "LATITUDE": 52.676771,
+        "LONGITUDE": -7.822109,
+        "NIG_N": "212082.036258755",
+        "NIG_E": "158373.387486596",
+        "IG_E": "158372.716296651",
+        "IG_N": "212082.032648451",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/22312068_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=TN&regno=22312068",
+        "Source": "NIAH Survey of North Tipperary 2004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.822108950967448, 52.676770989938014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2840,
+        "RegNo": "22402916",
+        "OriginalTy": "railway station",
+        "Townland": "KILTILLANE",
+        "County": "TIPPERARY NORTH",
+        "CONTAE": "Tiobraid Arann Theas",
+        "COMPOSITIO": "Detached irregular-plan multiple-bay single and two-storey railway station, built 1848. Comprising T-plan three-bay single-storey block with dormer floor and with projecting porch to front, L-plan five-bay single-storey block to south with belfry and lat",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 670797,
+        "ITM_N": 611971,
+        "LATITUDE": 52.788047,
+        "LONGITUDE": -7.822527,
+        "NIG_N": "212023.170872844",
+        "NIG_E": "170756.669101587",
+        "IG_E": "170755.998714251",
+        "IG_N": "212023.167259183",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/22402916_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=TN&regno=22402916",
+        "Source": "NIAH Survey of North Tipperary 2004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.82252695083213, 52.788046990653235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2857,
+        "RegNo": "22108102",
+        "OriginalTy": "railway station",
+        "Townland": "GARRYSKILLANE",
+        "County": "TIPPERARY SOUTH",
+        "CONTAE": "Tiobraid Arann Thuaidh",
+        "COMPOSITIO": "Detached five-bay two-storey over basement former railway station, built c. 1845, now in use as offices.  Screen walls to platform and canted bay windows to trackside elevation.  Skirt slate roof, with rendered chimneystack and cast-iron rainwater goods.",
+        "DATEFROM": 1840,
+        "DATETO": 1850,
+        "ITM_E": 635437,
+        "ITM_N": 589017,
+        "LATITUDE": 52.470258,
+        "LONGITUDE": -8.161642,
+        "NIG_N": "189064.696421977",
+        "NIG_E": "135389.485582333",
+        "IG_E": "135388.812930279",
+        "IG_N": "189064.68935048",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/22108102_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=TS&regno=22108102",
+        "Source": "NIAH Survey of South Tipperary 2005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.161641953404967, 52.470257988734005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2862,
+        "RegNo": "22205113",
+        "OriginalTy": "railway station",
+        "Townland": "GORTARUSH UPPER",
+        "County": "TIPPERARY SOUTH",
+        "CONTAE": "Tiobraid Arann Thuaidh",
+        "COMPOSITIO": "Detached four-bay single-and-two-storey former railway station, built c.1850, with projecting gable-fronted porch and end bays, adjoining bell tower and building to south-west and extension to north-east.  Now disused.  Pitched slate roofs with sandstone",
+        "DATEFROM": 1845,
+        "DATETO": 1855,
+        "ITM_E": 645531,
+        "ITM_N": 596479,
+        "LATITUDE": 52.561085,
+        "LONGITUDE": -8.051923,
+        "NIG_N": "196528.239424749",
+        "NIG_E": "145485.829499311",
+        "IG_E": "145485.15748482",
+        "IG_N": "196528.233471417",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/22205113_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=TS&regno=22205113",
+        "Source": "NIAH Survey of South Tipperary 2005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.051922952589678, 52.561084989278399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2863,
+        "RegNo": "22205205",
+        "OriginalTy": "railway station",
+        "Townland": "CLONOULTY CHURCHQUARTER",
+        "County": "TIPPERARY SOUTH",
+        "CONTAE": "Tiobraid Arann Thuaidh",
+        "COMPOSITIO": "Detached former railway station and station master's house, built c. 1860, forming T-plan arrangement, now in use as house.  Comprising three-bay single-storey station block with lower one-bay single-storey block to north-west, projecting gabled bay to f",
+        "DATEFROM": 1840,
+        "DATETO": 1880,
+        "ITM_E": 648773,
+        "ITM_N": 602763,
+        "LATITUDE": 52.590223,
+        "LONGITUDE": -7.959217,
+        "NIG_N": "202813.567425634",
+        "NIG_E": "148727.918499507",
+        "IG_E": "148727.246691407",
+        "IG_N": "202813.562417228",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/22205205_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=TS&regno=22205205",
+        "Source": "NIAH Survey of South Tipperary 2005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.95921695195716, 52.590222989432348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 2865,
+        "RegNo": "22205813",
+        "OriginalTy": "railway station",
+        "Townland": "BALLYKISTEEN",
+        "County": "TIPPERARY SOUTH",
+        "CONTAE": "Tiobraid Arann Thuaidh",
+        "COMPOSITIO": "Detached railway station and railway administration building, built 1848, comprising central five-bay two-storey over basement block flanked by slightly advanced three-bay three-storey over basement blocks, with possibly later four-bay three-storey block",
+        "DATEFROM": 1845,
+        "DATETO": 1850,
+        "ITM_E": 638859,
+        "ITM_N": 586422,
+        "LATITUDE": 52.500958,
+        "LONGITUDE": -8.199983,
+        "NIG_N": "186468.544799852",
+        "NIG_E": "138812.298310122",
+        "IG_E": "138811.625873271",
+        "IG_N": "186468.53733766",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/22205813_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=TS&regno=22205813",
+        "Source": "NIAH Survey of South Tipperary 2005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.199982953615688, 52.500957988944208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID_": 3247,
+        "RegNo": "15317039",
+        "OriginalTy": "railway station",
+        "Townland": "AGHANARGIT",
+        "County": "WESTMEATH",
+        "CONTAE": "An Iarmhi",
+        "COMPOSITIO": "Freestanding railway shelter associated with Moate Railway Station (15317037), erected c.1851. Now out of use. Single-pitched roof projecting out over platform to the north, supported on cast-iron beams/supports, having decorative timber barge boards and",
+        "DATEFROM": 1840,
+        "DATETO": 1860,
+        "ITM_E": 738813,
+        "ITM_N": 618322,
+        "LATITUDE": 53.399144,
+        "LONGITUDE": -7.724496,
+        "NIG_N": "218375.24644843",
+        "NIG_E": "238787.492617324",
+        "IG_E": "238786.82683051",
+        "IG_N": "218375.243839145",
+        "ImageLink": "http://www.buildingsofireland.ie/niah/images/survey_specific/fullsize/15317039_1.jpg",
+        "WebsiteLin": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=WM&regno=15317039",
+        "Source": "NIAH Survey of County Westmeath 2004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.724495949430833, 53.399143994556695]
+      }
+    }
+  ]
+}
